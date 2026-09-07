@@ -1,7 +1,0 @@
-venv/
-data/raw/
-*.ipynb_checkpoints/
-__pycache__/
-.env
-*.pkl
-.DS_Store

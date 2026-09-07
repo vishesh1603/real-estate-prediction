@@ -1,60 +1,65 @@
 # Data Dictionary
 
-## Source
-- User-provided archive (`archive_2_.zip`) containing 12 CSV files: real-estate listing exports
-  for 4 cities (Chandigarh, Ghaziabad, Lucknow, Pune) × 3 property types (Plot, Villa, Builder Floor).
-- Date merged/received: as provided in this project session.
-- Files were merged into a single master file: `data/raw/real_estate_master.csv`, with `city` and
-  `property_type` columns added during the merge to preserve source origin.
+## customer purchase intent dataset (real_estate_raw_messy.csv)
 
-## Row Counts
-- **Raw merged rows:** 13,828
-- **After cleaning (notebook 01):** see `data/processed/cleaned_listings.csv` shape printed at the
-  end of `01_data_cleaning.ipynb` (duplicates, invalid price/area, and extreme per-type outliers removed).
-- **Breakdown by city × property_type** (raw, post-merge):
+Synthetic data made to look like a real plot-buyer survey (deliberately messy - mixed
+units, inconsistent Yes/No formatting, casing issues etc.) so cleaning has real work to do.
 
-| City | Builder Floor | Plot | Villa |
-|---|---|---|---|
-| Chandigarh | 1,056 | 779 | 175 |
-| Ghaziabad | 5,533 | 723 | 278 |
-| Lucknow | 74 | 2,060 | 180 |
-| Pune | 123 | 1,870 | 977 |
+**The dataset is synthetically generated for academic demonstration and does not represent
+actual customers of any real-estate company.**
 
-## Columns (Raw Dataset — 41 total)
+| Column | Notes |
+|---|---|
+| Customer_ID | unique id |
+| Age | 18-90 |
+| Gender | Male/Female (messy in raw file) |
+| Occupation | messy - grouped into broader categories during cleaning |
+| City | 8 Indian cities, some abbreviations in raw file (BLR etc) |
+| Monthly_Income | mixed formats in raw file (₹ symbol, "X Lakh/pm") |
+| Annual_Income | mostly clean, used as fallback when monthly income missing |
+| Family_Size | 1-7 |
+| Current_Housing_Status | Owned / Rented / Living with Parents |
+| Plot_Budget | mixed formats ("INR X", "X Lakh", "Not Disclosed") |
+| Preferred_Plot_Size_SqFt | some rows in sq.yd instead of sq.ft |
+| Preferred_Location | City Centre / Suburbs / Within City Limits / Periphery / Any |
+| Distance_to_City_Center_km | a few negative values (data entry errors) |
+| Purpose | Self-use / Investment |
+| Loan_Required | Yes/No (messy) |
+| Expected_Purchase_Timeline | 0-6 months / 6-12 months / 1-3 years / >3 years |
+| Lead_Source | how the lead came in |
+| Enquiry_Date | too messy to parse reliably, dropped during cleaning |
+| Previous_Enquiry | Yes/No (messy) |
+| Site_Visit | Yes/No (messy) |
+| Negotiation_Done | Yes/No (messy) |
+| Booking_Done | Yes/No - **not used as a model feature**, this happens after/alongside the purchase decision |
+| Purchase_Probability | pre-computed probability - **not used as feature**, would leak the answer |
+| Purchase_Intent | Low/Medium/High - descriptive label, not used as feature (redundant with target) |
+| Purchased | **target column** for the classification model |
+| Purchase_Value | amount if purchased - not used as feature (only exists after purchase) |
 
-| Column | Type | Description |
-|---|---|---|
-| `location` | text | Locality/neighbourhood name within the city |
-| `area` | numeric (sqft) | Plot/property area |
-| `price` | numeric (INR) | Listed price |
-| `price_currency` | text | Currency label (raw data, mostly INR) |
-| `status` | numeric/text | Construction status flag (sparsely populated, e.g. Ready/Under construction) |
-| `new/resale` | binary (0/1) | Whether listing is new or resale |
-| `price_negotiable` | binary (0/1) | Whether price is marked negotiable |
-| `description` | text | Free-text listing description (not used as a model feature) |
-| `security_deposit` | numeric (INR) | Security deposit amount, where applicable |
-| `facing` | text | Plot/property facing direction (North, East, etc.) |
-| `furnished` | binary (0/1) | Furnished status |
-| `age of property` | numeric (years) | Age of the property |
-| `Lift(s)` … `Landscaped Gardens` | binary (0/1) | Amenity flags (10 core amenities, low missingness, used in modeling) |
-| `locality_score` | numeric | Locality quality score (moderately sparse — imputed with median) |
-| `project_score`, `builder_experience`, `Golf Course`, `Cafeteria`, and 10 other amenity/score columns | numeric | **Dropped in cleaning** — 80–96% missing, insufficient signal |
-| `Car Parking` | binary (0/1) | Parking availability (moderately sparse — imputed with 0) |
-| `city` | text | Added during merge: Chandigarh / Ghaziabad / Lucknow / Pune |
-| `property_type` | text | Added during merge: Plot / Villa / Builderfloor |
+## listings dataset (real_estate_master.csv)
 
-## Derived Columns (added in `01_data_cleaning.ipynb`)
-- `price_per_sqft` = `price` / `area`
-- `amenity_count` = sum of the 10 core amenity flags present for that listing
+Real property listings merged from 12 source files - 4 cities (Chandigarh, Ghaziabad,
+Lucknow, Pune) x 3 property types (Plot, Villa, Builder Floor). ~14k rows after cleaning.
 
-## Columns Dropped During Cleaning (>75% missing)
-`project_score`, `builder_experience`, `Golf Course`, `Cafeteria`, `Multipurpose Room`,
-`Indoor Games`, `Staff Quarter`, `Maintenance Staff`, `Rain Water Harvesting`, `Shopping Mall`,
-`ATM`, `Hospital`, `Vaastu Compliant`, `School`, `Intercom`
-*(exact list is regenerated and printed at runtime in `01_data_cleaning.ipynb`, Section 2)*
+Key columns: location, area, price, status, facing, furnished, security_deposit,
+amenity flags (Club House, Gymnasium, Swimming Pool etc), city, property_type.
 
-## Notes for Reproducibility
-- This dataset is real listing data (not synthetic) — no synthetic-data disclosure is required.
-- If any personally identifying information were present in `description` or `location` it should
-  be reviewed before public submission; none was identified in this pass, but this should be
-  manually re-verified before the dataset is shared outside the group.
+About 15 columns (project_score, builder_experience, Golf Course, Cafeteria etc.) were
+dropped during cleaning - over 75% missing, not usable.
+
+## scheme dataset (historical_scheme_data.csv)
+
+800 historical residential plot schemes across 12 locations (Delhi, Gurugram, Greater
+Noida, Pune, Ahmedabad, Kolkata, Bengaluru, Chennai, Faridabad, Hyderabad).
+
+**Real inputs** (used as model features - known before launching a scheme):
+Location, Plot_Size_SqFt, Price_INR, Monthly_EMI_INR, Park, Clubhouse,
+Distance_from_Metro_km, Advertising_Budget_INR
+
+**Target:** Scheme_Success_Score (0-100)
+
+**Excluded from features (leakage):** Expected_Leads, Expected_Bookings,
+Estimated_Conversion_Pct, Demand_Level, Target_Age_Group, Most_Likely_Buyers - these
+are all outcomes of the same prediction problem (0.65-0.76 correlation with the target),
+not information a manager would have in advance.

@@ -1,0 +1,801 @@
+Scheme_ID,Location,Plot_Size_SqFt,Price_INR,Monthly_EMI_INR,Park,Clubhouse,Distance_from_Metro_km,Advertising_Budget_INR,Expected_Leads,Expected_Bookings,Estimated_Conversion_Pct,Demand_Level,Scheme_Success_Score,Target_Age_Group,Most_Likely_Buyers
+SCH_0101,Delhi (Outer/Bawana),800,1320000,9200,Yes,No,3.9,1500000,3230,602,18.6,HIGH,79,25-38,First-time Buyers & Investors
+SCH_0102,Gurugram (SPR/Sohna),1800,8270000,57400,Yes,Yes,16.2,1500000,2335,348,14.9,HIGH,79,40-60,Affluent Investors & Luxury Homes
+SCH_0103,Kolkata (New Town/Rajarhat),1500,3030000,21000,Yes,No,5.5,750000,1267,227,17.9,MEDIUM,74,25-38,First-time Buyers & Investors
+SCH_0104,Bengaluru (North),1000,6360000,44200,Yes,No,23.9,1000000,1015,99,9.8,LOW,41,32-48,Self-use (Villa) + Investment
+SCH_0105,Greater Noida,2400,8150000,56600,No,No,23.4,1000000,1180,73,6.2,LOW,25,40-60,Affluent Investors & Luxury Homes
+SCH_0106,Pune (Wagholi/Kharadi),1800,4860000,33700,Yes,No,27.6,2000000,1943,203,10.4,MEDIUM,62,32-48,Self-use (Villa) + Investment
+SCH_0107,Gurugram (SPR/Sohna),1500,6180000,42900,No,No,6.8,500000,790,82,10.4,LOW,45,32-48,Self-use (Villa) + Investment
+SCH_0108,Delhi (Outer/Bawana),2400,4170000,29000,Yes,No,8.4,1500000,2618,423,16.2,MEDIUM,68,32-48,Self-use (Villa) + Investment
+SCH_0109,Bengaluru (East),2400,10250000,71200,No,Yes,22.8,750000,750,103,13.7,MEDIUM,57,40-60,Affluent Investors & Luxury Homes
+SCH_0110,Bengaluru (East),1800,10970000,76200,No,No,5.0,350000,501,52,10.4,LOW,34,40-60,Affluent Investors & Luxury Homes
+SCH_0111,Kolkata (New Town/Rajarhat),1800,3780000,26200,No,Yes,14.9,200000,280,59,21.1,MEDIUM,68,32-48,Self-use (Villa) + Investment
+SCH_0112,Gurugram (SPR/Sohna),1000,5270000,36600,No,Yes,11.5,1000000,1814,300,16.5,HIGH,79,32-48,Self-use (Villa) + Investment
+SCH_0113,Kolkata (New Town/Rajarhat),1200,4130000,28700,No,Yes,19.5,1000000,1285,110,8.6,LOW,47,32-48,Self-use (Villa) + Investment
+SCH_0114,Delhi (Outer/Bawana),1200,2170000,15100,No,No,20.6,1500000,1340,172,12.8,MEDIUM,61,25-38,First-time Buyers & Investors
+SCH_0115,Kolkata (New Town/Rajarhat),3000,5820000,40400,No,No,9.2,1500000,2113,279,13.2,MEDIUM,62,32-48,Self-use (Villa) + Investment
+SCH_0116,Bengaluru (East),1000,4430000,30800,Yes,No,14.3,200000,296,43,14.5,LOW,45,32-48,Self-use (Villa) + Investment
+SCH_0117,Pune (Hinjewadi/Wakad),1000,2350000,16300,No,No,3.5,750000,1418,178,12.6,MEDIUM,62,25-38,First-time Buyers & Investors
+SCH_0118,Kolkata (New Town/Rajarhat),3000,5520000,38300,Yes,No,27.0,1000000,1234,139,11.3,MEDIUM,54,32-48,Self-use (Villa) + Investment
+SCH_0119,Faridabad (Neharpar),1000,2950000,20500,No,No,4.4,350000,485,93,19.2,MEDIUM,57,25-38,First-time Buyers & Investors
+SCH_0120,Greater Noida,1800,6550000,45500,Yes,Yes,7.3,200000,428,82,19.2,MEDIUM,71,32-48,Self-use (Villa) + Investment
+SCH_0121,Gurugram (SPR/Sohna),1800,7170000,49800,Yes,No,7.7,750000,1389,215,15.5,MEDIUM,68,32-48,Self-use (Villa) + Investment
+SCH_0122,Bengaluru (East),800,2820000,19600,No,Yes,19.2,1500000,1367,212,15.5,HIGH,85,25-38,First-time Buyers & Investors
+SCH_0123,Hyderabad (Tellapur/Kollur),2400,7400000,51400,No,Yes,15.6,350000,442,70,15.8,MEDIUM,60,32-48,Self-use (Villa) + Investment
+SCH_0124,Pune (Hinjewadi/Wakad),1500,4270000,29600,No,Yes,2.6,1000000,2200,448,20.4,HIGH,95,32-48,Self-use (Villa) + Investment
+SCH_0125,Gurugram (SPR/Sohna),3000,18000000,125000,No,No,25.4,350000,328,42,12.8,LOW,30,40-60,Affluent Investors & Luxury Homes
+SCH_0126,Hyderabad (Tellapur/Kollur),1200,5530000,38400,No,No,5.3,500000,709,100,14.1,MEDIUM,50,32-48,Self-use (Villa) + Investment
+SCH_0127,Greater Noida,1800,7400000,51400,No,No,14.7,2000000,2402,216,9.0,MEDIUM,57,32-48,Self-use (Villa) + Investment
+SCH_0128,Greater Noida,1800,4330000,30100,Yes,No,7.5,200000,409,80,19.6,MEDIUM,57,32-48,Self-use (Villa) + Investment
+SCH_0129,Ahmedabad (SG Highway),1000,2700000,18700,Yes,No,26.3,350000,393,46,11.7,LOW,39,25-38,First-time Buyers & Investors
+SCH_0130,Pune (Wagholi/Kharadi),1000,2890000,20100,No,Yes,1.4,1000000,2444,444,18.2,HIGH,88,25-38,First-time Buyers & Investors
+SCH_0131,Gurugram (SPR/Sohna),800,3980000,27600,Yes,No,24.8,350000,370,57,15.4,LOW,44,32-48,Self-use (Villa) + Investment
+SCH_0132,Bengaluru (North),1500,8930000,62000,Yes,No,16.1,1500000,1538,154,10.0,LOW,48,40-60,Affluent Investors & Luxury Homes
+SCH_0133,Bengaluru (North),1200,4300000,29900,Yes,Yes,20.4,350000,491,79,16.1,MEDIUM,61,32-48,Self-use (Villa) + Investment
+SCH_0134,Pune (Hinjewadi/Wakad),1800,6250000,43400,No,No,3.7,750000,1398,188,13.4,MEDIUM,64,32-48,Self-use (Villa) + Investment
+SCH_0135,Greater Noida,800,2450000,17000,No,No,13.0,1500000,1805,216,12.0,MEDIUM,64,25-38,First-time Buyers & Investors
+SCH_0136,Greater Noida,800,1920000,13300,No,No,15.8,2000000,2154,338,15.7,MEDIUM,72,25-38,First-time Buyers & Investors
+SCH_0137,Kolkata (New Town/Rajarhat),1000,2420000,16800,No,No,22.5,2000000,1585,171,10.8,MEDIUM,51,25-38,First-time Buyers & Investors
+SCH_0138,Pune (Wagholi/Kharadi),1000,3970000,27600,No,No,24.9,750000,909,101,11.1,MEDIUM,52,32-48,Self-use (Villa) + Investment
+SCH_0139,Faridabad (Neharpar),1000,3360000,23300,Yes,No,22.9,750000,650,89,13.7,LOW,48,25-38,First-time Buyers & Investors
+SCH_0140,Faridabad (Neharpar),1200,3700000,25700,Yes,Yes,11.5,200000,348,74,21.3,MEDIUM,73,32-48,Self-use (Villa) + Investment
+SCH_0141,Bengaluru (East),1000,5890000,40900,No,No,24.6,350000,300,20,6.7,LOW,26,32-48,Self-use (Villa) + Investment
+SCH_0142,Bengaluru (East),1500,6420000,44600,No,No,8.7,1500000,2100,324,15.4,HIGH,78,32-48,Self-use (Villa) + Investment
+SCH_0143,Delhi (Outer/Bawana),3000,7860000,54600,No,No,6.0,500000,572,71,12.4,LOW,43,32-48,Self-use (Villa) + Investment
+SCH_0144,Ahmedabad (SG Highway),1500,3390000,23500,No,Yes,11.5,1000000,1279,161,12.6,MEDIUM,69,25-38,First-time Buyers & Investors
+SCH_0145,Greater Noida,2400,8000000,55600,Yes,Yes,26.6,500000,631,105,16.6,MEDIUM,64,40-60,Affluent Investors & Luxury Homes
+SCH_0146,Delhi (Outer/Bawana),3000,5510000,38300,No,No,9.9,1500000,1928,232,12.0,MEDIUM,63,32-48,Self-use (Villa) + Investment
+SCH_0147,Bengaluru (North),1000,4590000,31900,No,No,25.4,1000000,1056,83,7.9,LOW,36,32-48,Self-use (Villa) + Investment
+SCH_0148,Hyderabad (Tellapur/Kollur),1800,7860000,54600,Yes,No,13.7,750000,1155,138,11.9,MEDIUM,54,32-48,Self-use (Villa) + Investment
+SCH_0149,Kolkata (New Town/Rajarhat),1500,4660000,32400,No,No,18.9,500000,518,67,12.9,LOW,39,32-48,Self-use (Villa) + Investment
+SCH_0150,Delhi (Outer/Bawana),1800,4030000,28000,No,No,19.2,350000,352,43,12.2,LOW,38,32-48,Self-use (Villa) + Investment
+SCH_0151,Bengaluru (North),800,2680000,18600,No,No,21.8,750000,726,86,11.8,LOW,42,25-38,First-time Buyers & Investors
+SCH_0152,Delhi (Outer/Bawana),1800,3540000,24600,No,Yes,18.8,200000,283,40,14.1,LOW,48,32-48,Self-use (Villa) + Investment
+SCH_0153,Gurugram (SPR/Sohna),3000,13810000,95900,No,Yes,25.8,200000,289,42,14.5,LOW,48,40-60,Affluent Investors & Luxury Homes
+SCH_0154,Chennai (OMR/Guduvanchery),2400,6260000,43500,No,No,25.1,1000000,1162,99,8.5,LOW,42,32-48,Self-use (Villa) + Investment
+SCH_0155,Kolkata (New Town/Rajarhat),1500,4770000,33100,Yes,No,13.9,500000,798,111,13.9,MEDIUM,55,32-48,Self-use (Villa) + Investment
+SCH_0156,Delhi (Outer/Bawana),1200,3670000,25500,Yes,Yes,20.3,350000,411,72,17.5,MEDIUM,68,32-48,Self-use (Villa) + Investment
+SCH_0157,Pune (Wagholi/Kharadi),1800,4340000,30100,No,No,20.1,200000,183,16,8.7,LOW,23,32-48,Self-use (Villa) + Investment
+SCH_0158,Pune (Wagholi/Kharadi),1800,6140000,42600,No,Yes,24.2,2000000,2345,312,13.3,HIGH,78,32-48,Self-use (Villa) + Investment
+SCH_0159,Chennai (OMR/Guduvanchery),800,2710000,18800,No,No,26.8,750000,770,100,13.0,LOW,49,25-38,First-time Buyers & Investors
+SCH_0160,Faridabad (Neharpar),1800,5620000,39000,No,No,12.9,200000,288,38,13.2,LOW,46,32-48,Self-use (Villa) + Investment
+SCH_0161,Delhi (Outer/Bawana),2400,7480000,51900,No,No,27.5,1000000,803,71,8.8,LOW,32,32-48,Self-use (Villa) + Investment
+SCH_0162,Hyderabad (Tellapur/Kollur),1800,6600000,45800,No,No,6.1,500000,740,99,13.4,MEDIUM,51,32-48,Self-use (Villa) + Investment
+SCH_0163,Bengaluru (East),1500,6420000,44600,No,No,8.0,200000,303,41,13.5,LOW,37,32-48,Self-use (Villa) + Investment
+SCH_0164,Faridabad (Neharpar),1800,3060000,21200,No,Yes,22.1,1500000,1306,161,12.3,MEDIUM,71,25-38,First-time Buyers & Investors
+SCH_0165,Greater Noida,1000,2720000,18900,Yes,No,19.1,1000000,1360,134,9.9,LOW,49,25-38,First-time Buyers & Investors
+SCH_0166,Chennai (OMR/Guduvanchery),2400,5010000,34800,Yes,No,5.6,500000,727,100,13.8,MEDIUM,51,32-48,Self-use (Villa) + Investment
+SCH_0167,Greater Noida,1200,4440000,30800,No,Yes,3.2,1500000,3279,545,16.6,HIGH,84,32-48,Self-use (Villa) + Investment
+SCH_0168,Bengaluru (East),800,4400000,30600,Yes,No,16.4,200000,251,34,13.5,LOW,42,32-48,Self-use (Villa) + Investment
+SCH_0169,Hyderabad (Tellapur/Kollur),2400,7590000,52700,No,No,23.2,200000,145,12,8.3,LOW,26,32-48,Self-use (Villa) + Investment
+SCH_0170,Pune (Wagholi/Kharadi),2400,10840000,75300,Yes,No,17.7,1000000,1353,193,14.3,HIGH,79,40-60,Affluent Investors & Luxury Homes
+SCH_0171,Chennai (OMR/Guduvanchery),1500,4750000,33000,No,No,23.5,200000,198,27,13.6,LOW,40,32-48,Self-use (Villa) + Investment
+SCH_0172,Chennai (OMR/Guduvanchery),1000,3030000,21000,No,No,24.0,350000,369,37,10.0,LOW,34,25-38,First-time Buyers & Investors
+SCH_0173,Pune (Wagholi/Kharadi),3000,8620000,59900,No,No,15.0,350000,305,40,13.1,LOW,37,40-60,Affluent Investors & Luxury Homes
+SCH_0174,Faridabad (Neharpar),1500,3790000,26300,No,No,18.5,750000,754,126,16.7,MEDIUM,55,32-48,Self-use (Villa) + Investment
+SCH_0175,Greater Noida,800,2370000,16500,Yes,No,16.8,750000,968,86,8.9,LOW,37,25-38,First-time Buyers & Investors
+SCH_0176,Pune (Wagholi/Kharadi),1500,7190000,49900,No,No,8.5,500000,667,94,14.1,LOW,47,32-48,Self-use (Villa) + Investment
+SCH_0177,Faridabad (Neharpar),1000,2200000,15300,Yes,No,21.0,500000,590,86,14.6,LOW,47,25-38,First-time Buyers & Investors
+SCH_0178,Kolkata (New Town/Rajarhat),1800,3850000,26700,Yes,No,6.0,200000,383,61,15.9,LOW,46,32-48,Self-use (Villa) + Investment
+SCH_0179,Bengaluru (North),1200,4020000,27900,No,No,4.6,2000000,3630,674,18.6,MEDIUM,71,32-48,Self-use (Villa) + Investment
+SCH_0180,Gurugram (SPR/Sohna),3000,9720000,67500,No,Yes,27.1,500000,694,82,11.8,MEDIUM,56,40-60,Affluent Investors & Luxury Homes
+SCH_0181,Chennai (OMR/Guduvanchery),800,2530000,17600,Yes,No,19.6,350000,301,38,12.6,LOW,39,25-38,First-time Buyers & Investors
+SCH_0182,Ahmedabad (SG Highway),1200,2110000,14700,No,No,22.4,350000,423,33,7.8,LOW,26,25-38,First-time Buyers & Investors
+SCH_0183,Hyderabad (Tellapur/Kollur),1500,6840000,47500,No,Yes,17.5,1500000,1490,176,11.8,HIGH,75,32-48,Self-use (Villa) + Investment
+SCH_0184,Bengaluru (East),2400,9350000,64900,Yes,Yes,5.4,750000,1467,225,15.3,HIGH,83,40-60,Affluent Investors & Luxury Homes
+SCH_0185,Ahmedabad (SG Highway),1500,3230000,22400,No,No,13.4,1500000,1702,282,16.6,MEDIUM,69,25-38,First-time Buyers & Investors
+SCH_0186,Pune (Hinjewadi/Wakad),3000,12770000,88700,Yes,Yes,18.6,500000,731,136,18.6,MEDIUM,74,40-60,Affluent Investors & Luxury Homes
+SCH_0187,Gurugram (SPR/Sohna),800,3000000,20800,No,No,19.7,1500000,1444,186,12.9,MEDIUM,61,25-38,First-time Buyers & Investors
+SCH_0188,Pune (Hinjewadi/Wakad),1800,6490000,45100,Yes,No,20.9,1000000,987,59,6.0,LOW,24,32-48,Self-use (Villa) + Investment
+SCH_0189,Gurugram (SPR/Sohna),1000,6370000,44200,No,No,26.7,2000000,2143,128,6.0,LOW,44,32-48,Self-use (Villa) + Investment
+SCH_0190,Pune (Hinjewadi/Wakad),1800,4150000,28800,No,No,25.8,350000,378,37,9.8,LOW,32,32-48,Self-use (Villa) + Investment
+SCH_0191,Hyderabad (Tellapur/Kollur),2400,10360000,71900,No,No,10.1,1500000,1734,180,10.4,MEDIUM,61,40-60,Affluent Investors & Luxury Homes
+SCH_0192,Bengaluru (North),1200,5470000,38000,No,No,15.9,750000,690,58,8.4,LOW,34,32-48,Self-use (Villa) + Investment
+SCH_0193,Pune (Hinjewadi/Wakad),1200,3000000,20800,No,No,23.3,200000,219,20,9.1,LOW,28,25-38,First-time Buyers & Investors
+SCH_0194,Kolkata (New Town/Rajarhat),1500,3580000,24900,No,No,14.6,750000,982,140,14.3,MEDIUM,60,32-48,Self-use (Villa) + Investment
+SCH_0195,Bengaluru (East),1200,6010000,41700,No,No,4.5,1500000,2571,306,11.9,MEDIUM,70,32-48,Self-use (Villa) + Investment
+SCH_0196,Bengaluru (East),2400,8930000,62000,No,Yes,13.6,200000,233,37,15.9,MEDIUM,55,40-60,Affluent Investors & Luxury Homes
+SCH_0197,Bengaluru (North),1500,9420000,65400,No,No,27.5,350000,351,26,7.4,LOW,24,40-60,Affluent Investors & Luxury Homes
+SCH_0198,Bengaluru (North),1500,5740000,39900,Yes,No,8.6,2000000,3706,538,14.5,MEDIUM,72,32-48,Self-use (Villa) + Investment
+SCH_0199,Pune (Wagholi/Kharadi),3000,10560000,73300,No,No,23.6,1000000,1236,114,9.2,LOW,46,40-60,Affluent Investors & Luxury Homes
+SCH_0200,Chennai (OMR/Guduvanchery),3000,5650000,39200,No,No,13.4,500000,732,117,16.0,MEDIUM,59,32-48,Self-use (Villa) + Investment
+SCH_0201,Faridabad (Neharpar),1000,2690000,18700,No,No,20.1,2000000,1857,178,9.6,MEDIUM,58,25-38,First-time Buyers & Investors
+SCH_0202,Delhi (Outer/Bawana),3000,9480000,65800,No,Yes,4.6,1000000,1713,333,19.4,HIGH,89,40-60,Affluent Investors & Luxury Homes
+SCH_0203,Gurugram (SPR/Sohna),3000,17970000,124800,No,Yes,12.2,1500000,2734,355,13.0,HIGH,78,40-60,Affluent Investors & Luxury Homes
+SCH_0204,Gurugram (SPR/Sohna),1500,8670000,60200,No,No,24.0,2000000,2146,181,8.4,MEDIUM,57,40-60,Affluent Investors & Luxury Homes
+SCH_0205,Kolkata (New Town/Rajarhat),1500,5120000,35600,No,No,2.2,200000,325,61,18.8,MEDIUM,58,32-48,Self-use (Villa) + Investment
+SCH_0206,Delhi (Outer/Bawana),1200,4190000,29100,No,No,21.6,1500000,1750,222,12.7,MEDIUM,64,32-48,Self-use (Villa) + Investment
+SCH_0207,Chennai (OMR/Guduvanchery),1000,2920000,20300,No,Yes,9.1,500000,796,128,16.1,MEDIUM,70,25-38,First-time Buyers & Investors
+SCH_0208,Bengaluru (East),1800,8210000,57000,Yes,Yes,17.5,750000,1093,147,13.4,MEDIUM,74,40-60,Affluent Investors & Luxury Homes
+SCH_0209,Bengaluru (East),1500,9320000,64700,No,No,13.5,1500000,1398,125,8.9,LOW,48,40-60,Affluent Investors & Luxury Homes
+SCH_0210,Chennai (OMR/Guduvanchery),1200,3460000,24000,No,No,27.7,500000,557,69,12.4,LOW,44,25-38,First-time Buyers & Investors
+SCH_0211,Hyderabad (Tellapur/Kollur),2400,6840000,47500,No,No,24.1,200000,175,15,8.6,LOW,25,32-48,Self-use (Villa) + Investment
+SCH_0212,Ahmedabad (SG Highway),1200,3230000,22400,No,No,8.6,1000000,1646,270,16.4,MEDIUM,72,25-38,First-time Buyers & Investors
+SCH_0213,Faridabad (Neharpar),800,2660000,18500,No,No,7.4,2000000,2732,360,13.2,MEDIUM,68,25-38,First-time Buyers & Investors
+SCH_0214,Delhi (Outer/Bawana),1000,2780000,19300,Yes,No,25.4,1500000,1304,142,10.9,MEDIUM,52,25-38,First-time Buyers & Investors
+SCH_0215,Chennai (OMR/Guduvanchery),800,2160000,15000,Yes,No,10.0,750000,991,146,14.7,MEDIUM,59,25-38,First-time Buyers & Investors
+SCH_0216,Bengaluru (North),3000,14940000,103700,No,No,23.5,500000,600,44,7.3,LOW,23,40-60,Affluent Investors & Luxury Homes
+SCH_0217,Chennai (OMR/Guduvanchery),3000,6480000,45000,No,No,13.8,200000,178,23,12.9,LOW,37,32-48,Self-use (Villa) + Investment
+SCH_0218,Bengaluru (East),3000,16300000,113200,No,No,22.8,500000,456,50,11.0,LOW,36,40-60,Affluent Investors & Luxury Homes
+SCH_0219,Hyderabad (Tellapur/Kollur),800,2310000,16000,No,No,19.2,1000000,945,80,8.5,LOW,36,25-38,First-time Buyers & Investors
+SCH_0220,Delhi (Outer/Bawana),1200,2170000,15100,Yes,No,26.5,500000,654,90,13.8,LOW,46,25-38,First-time Buyers & Investors
+SCH_0221,Bengaluru (East),2400,8180000,56800,No,No,9.3,750000,886,157,17.7,MEDIUM,68,40-60,Affluent Investors & Luxury Homes
+SCH_0222,Greater Noida,800,2390000,16600,Yes,No,15.6,750000,956,140,14.6,MEDIUM,58,25-38,First-time Buyers & Investors
+SCH_0223,Delhi (Outer/Bawana),2400,7020000,48700,Yes,No,18.8,2000000,2271,295,13.0,MEDIUM,66,32-48,Self-use (Villa) + Investment
+SCH_0224,Hyderabad (Tellapur/Kollur),1200,2740000,19000,No,Yes,24.1,200000,252,34,13.5,MEDIUM,50,25-38,First-time Buyers & Investors
+SCH_0225,Pune (Wagholi/Kharadi),1800,8180000,56800,Yes,Yes,27.1,2000000,2958,529,17.9,HIGH,92,40-60,Affluent Investors & Luxury Homes
+SCH_0226,Gurugram (SPR/Sohna),2400,9360000,65000,Yes,No,7.7,350000,624,113,18.1,MEDIUM,62,40-60,Affluent Investors & Luxury Homes
+SCH_0227,Bengaluru (East),800,4750000,33000,Yes,No,7.4,2000000,2858,342,12.0,MEDIUM,61,32-48,Self-use (Villa) + Investment
+SCH_0228,Ahmedabad (SG Highway),800,1700000,11800,No,No,15.7,2000000,1924,115,6.0,LOW,36,25-38,First-time Buyers & Investors
+SCH_0229,Delhi (Outer/Bawana),3000,4950000,34400,Yes,No,1.6,500000,738,142,19.2,MEDIUM,70,32-48,Self-use (Villa) + Investment
+SCH_0230,Faridabad (Neharpar),1500,3900000,27100,No,No,15.0,200000,293,47,16.0,LOW,44,32-48,Self-use (Villa) + Investment
+SCH_0231,Bengaluru (East),1800,6020000,41800,No,No,15.2,750000,897,109,12.2,LOW,45,32-48,Self-use (Villa) + Investment
+SCH_0232,Greater Noida,800,3840000,26700,No,Yes,14.3,750000,896,174,19.4,HIGH,83,32-48,Self-use (Villa) + Investment
+SCH_0233,Gurugram (SPR/Sohna),1200,6250000,43400,No,No,16.9,1500000,1450,179,12.3,MEDIUM,61,32-48,Self-use (Villa) + Investment
+SCH_0234,Ahmedabad (SG Highway),1800,3890000,27000,No,Yes,24.1,1500000,2060,195,9.5,MEDIUM,66,32-48,Self-use (Villa) + Investment
+SCH_0235,Kolkata (New Town/Rajarhat),2400,7790000,54100,Yes,No,11.9,1500000,1776,286,16.1,MEDIUM,71,32-48,Self-use (Villa) + Investment
+SCH_0236,Hyderabad (Tellapur/Kollur),1200,4720000,32800,Yes,No,13.9,200000,334,44,13.2,LOW,39,32-48,Self-use (Villa) + Investment
+SCH_0237,Gurugram (SPR/Sohna),1500,5280000,36700,Yes,No,16.9,1000000,1262,180,14.3,MEDIUM,67,32-48,Self-use (Villa) + Investment
+SCH_0238,Delhi (Outer/Bawana),800,1900000,13200,No,No,12.5,1500000,1478,150,10.1,MEDIUM,55,25-38,First-time Buyers & Investors
+SCH_0239,Pune (Hinjewadi/Wakad),1800,5420000,37600,Yes,No,7.2,200000,321,45,14.0,LOW,46,32-48,Self-use (Villa) + Investment
+SCH_0240,Kolkata (New Town/Rajarhat),1200,2180000,15100,Yes,No,23.9,2000000,2562,408,15.9,MEDIUM,72,25-38,First-time Buyers & Investors
+SCH_0241,Ahmedabad (SG Highway),2400,6770000,47000,No,No,20.0,500000,666,102,15.3,MEDIUM,53,32-48,Self-use (Villa) + Investment
+SCH_0242,Pune (Wagholi/Kharadi),800,2140000,14900,No,No,21.1,200000,196,24,12.2,LOW,39,25-38,First-time Buyers & Investors
+SCH_0243,Kolkata (New Town/Rajarhat),1000,2310000,16000,Yes,No,20.5,2000000,2651,390,14.7,MEDIUM,73,25-38,First-time Buyers & Investors
+SCH_0244,Ahmedabad (SG Highway),800,2620000,18200,Yes,No,8.5,1500000,2266,295,13.0,MEDIUM,60,25-38,First-time Buyers & Investors
+SCH_0245,Ahmedabad (SG Highway),1500,3580000,24900,Yes,Yes,8.8,1500000,2816,571,20.3,HIGH,95,32-48,Self-use (Villa) + Investment
+SCH_0246,Kolkata (New Town/Rajarhat),2400,5250000,36500,Yes,No,26.5,2000000,1866,318,17.0,MEDIUM,70,32-48,Self-use (Villa) + Investment
+SCH_0247,Pune (Hinjewadi/Wakad),1200,3660000,25400,No,No,15.5,350000,343,37,10.8,LOW,34,32-48,Self-use (Villa) + Investment
+SCH_0248,Delhi (Outer/Bawana),3000,6820000,47400,Yes,No,25.9,2000000,2042,159,7.8,LOW,48,32-48,Self-use (Villa) + Investment
+SCH_0249,Hyderabad (Tellapur/Kollur),1800,5850000,40600,No,Yes,27.1,350000,411,62,15.1,MEDIUM,57,32-48,Self-use (Villa) + Investment
+SCH_0250,Ahmedabad (SG Highway),1500,4770000,33100,No,Yes,7.7,1000000,1579,240,15.2,HIGH,77,32-48,Self-use (Villa) + Investment
+SCH_0251,Gurugram (SPR/Sohna),1500,9110000,63300,Yes,Yes,3.2,1500000,2589,566,21.9,HIGH,91,40-60,Affluent Investors & Luxury Homes
+SCH_0252,Kolkata (New Town/Rajarhat),1000,3320000,23100,Yes,Yes,8.1,350000,692,118,17.1,MEDIUM,68,25-38,First-time Buyers & Investors
+SCH_0253,Delhi (Outer/Bawana),800,1550000,10800,No,No,21.4,2000000,2064,173,8.4,MEDIUM,50,25-38,First-time Buyers & Investors
+SCH_0254,Delhi (Outer/Bawana),1800,5080000,35300,No,No,5.2,200000,268,50,18.7,MEDIUM,52,32-48,Self-use (Villa) + Investment
+SCH_0255,Delhi (Outer/Bawana),1200,3740000,26000,No,No,13.6,200000,171,24,14.0,LOW,38,32-48,Self-use (Villa) + Investment
+SCH_0256,Pune (Hinjewadi/Wakad),800,3100000,21500,No,No,13.6,1000000,1474,228,15.5,MEDIUM,73,25-38,First-time Buyers & Investors
+SCH_0257,Faridabad (Neharpar),800,1960000,13600,No,No,9.8,750000,1019,127,12.5,MEDIUM,52,25-38,First-time Buyers & Investors
+SCH_0258,Greater Noida,1500,3700000,25700,No,Yes,14.7,350000,295,37,12.5,MEDIUM,51,32-48,Self-use (Villa) + Investment
+SCH_0259,Faridabad (Neharpar),1500,5220000,36200,Yes,No,11.6,2000000,2772,426,15.4,MEDIUM,72,32-48,Self-use (Villa) + Investment
+SCH_0260,Ahmedabad (SG Highway),800,2480000,17200,Yes,No,16.2,750000,859,177,20.6,HIGH,81,25-38,First-time Buyers & Investors
+SCH_0261,Faridabad (Neharpar),3000,8540000,59300,No,No,10.1,1000000,1468,170,11.6,MEDIUM,53,40-60,Affluent Investors & Luxury Homes
+SCH_0262,Pune (Wagholi/Kharadi),1200,5660000,39300,No,Yes,9.5,750000,1288,188,14.6,MEDIUM,73,32-48,Self-use (Villa) + Investment
+SCH_0263,Pune (Wagholi/Kharadi),3000,7600000,52800,Yes,No,12.5,500000,533,70,13.1,LOW,49,32-48,Self-use (Villa) + Investment
+SCH_0264,Pune (Hinjewadi/Wakad),1000,4670000,32400,No,Yes,5.4,500000,1068,176,16.5,HIGH,83,32-48,Self-use (Villa) + Investment
+SCH_0265,Gurugram (SPR/Sohna),1800,10340000,71800,No,No,2.2,500000,993,127,12.8,MEDIUM,57,40-60,Affluent Investors & Luxury Homes
+SCH_0266,Ahmedabad (SG Highway),1000,2730000,19000,Yes,No,21.9,2000000,2662,277,10.4,MEDIUM,60,25-38,First-time Buyers & Investors
+SCH_0267,Faridabad (Neharpar),1500,2520000,17500,Yes,No,17.6,2000000,2625,250,9.5,MEDIUM,62,25-38,First-time Buyers & Investors
+SCH_0268,Chennai (OMR/Guduvanchery),1000,2610000,18100,No,No,6.4,1500000,2812,295,10.5,MEDIUM,63,25-38,First-time Buyers & Investors
+SCH_0269,Chennai (OMR/Guduvanchery),1500,4590000,31900,No,No,27.1,2000000,1699,166,9.8,MEDIUM,52,32-48,Self-use (Villa) + Investment
+SCH_0270,Ahmedabad (SG Highway),1000,3260000,22600,No,No,16.1,200000,216,24,11.1,LOW,29,25-38,First-time Buyers & Investors
+SCH_0271,Kolkata (New Town/Rajarhat),3000,5510000,38300,Yes,Yes,23.5,200000,313,48,15.3,MEDIUM,53,32-48,Self-use (Villa) + Investment
+SCH_0272,Bengaluru (East),3000,14070000,97700,Yes,No,14.7,350000,408,59,14.5,LOW,47,40-60,Affluent Investors & Luxury Homes
+SCH_0273,Gurugram (SPR/Sohna),1200,4730000,32800,Yes,No,18.6,2000000,1940,204,10.5,MEDIUM,61,32-48,Self-use (Villa) + Investment
+SCH_0274,Greater Noida,1200,5500000,38200,Yes,No,13.8,1000000,1083,128,11.8,MEDIUM,53,32-48,Self-use (Villa) + Investment
+SCH_0275,Gurugram (SPR/Sohna),800,3240000,22500,No,No,4.2,500000,685,126,18.4,MEDIUM,62,25-38,First-time Buyers & Investors
+SCH_0276,Gurugram (SPR/Sohna),800,3190000,22200,No,No,17.2,200000,166,11,6.6,LOW,21,25-38,First-time Buyers & Investors
+SCH_0277,Ahmedabad (SG Highway),1000,2970000,20600,Yes,No,7.6,750000,1068,146,13.7,MEDIUM,60,25-38,First-time Buyers & Investors
+SCH_0278,Delhi (Outer/Bawana),800,2080000,14400,Yes,No,13.8,1500000,1884,298,15.8,MEDIUM,68,25-38,First-time Buyers & Investors
+SCH_0279,Pune (Wagholi/Kharadi),1200,4970000,34500,Yes,Yes,21.9,1500000,2100,327,15.6,HIGH,79,32-48,Self-use (Villa) + Investment
+SCH_0280,Bengaluru (North),800,3490000,24200,Yes,No,19.5,1500000,1646,255,15.5,MEDIUM,69,25-38,First-time Buyers & Investors
+SCH_0281,Bengaluru (North),3000,10940000,76000,No,Yes,2.4,350000,825,137,16.6,MEDIUM,74,40-60,Affluent Investors & Luxury Homes
+SCH_0282,Pune (Wagholi/Kharadi),1200,4250000,29500,No,No,2.2,1500000,2229,241,10.8,MEDIUM,59,32-48,Self-use (Villa) + Investment
+SCH_0283,Pune (Wagholi/Kharadi),3000,12690000,88100,No,Yes,22.6,750000,1033,134,13.0,MEDIUM,66,40-60,Affluent Investors & Luxury Homes
+SCH_0284,Faridabad (Neharpar),1500,4950000,34400,Yes,No,11.0,2000000,2992,485,16.2,MEDIUM,72,32-48,Self-use (Villa) + Investment
+SCH_0285,Gurugram (SPR/Sohna),2400,11040000,76700,Yes,No,3.9,500000,1015,199,19.6,HIGH,80,40-60,Affluent Investors & Luxury Homes
+SCH_0286,Pune (Hinjewadi/Wakad),1500,5650000,39200,No,Yes,20.7,500000,589,72,12.2,MEDIUM,51,32-48,Self-use (Villa) + Investment
+SCH_0287,Hyderabad (Tellapur/Kollur),1200,4640000,32200,No,No,10.9,2000000,2992,387,12.9,MEDIUM,67,32-48,Self-use (Villa) + Investment
+SCH_0288,Bengaluru (North),800,2940000,20400,No,Yes,7.5,1500000,2462,459,18.6,HIGH,86,25-38,First-time Buyers & Investors
+SCH_0289,Hyderabad (Tellapur/Kollur),1800,4110000,28500,No,No,11.2,2000000,2180,282,12.9,MEDIUM,60,32-48,Self-use (Villa) + Investment
+SCH_0290,Bengaluru (North),1800,7940000,55100,No,Yes,1.9,350000,650,96,14.8,MEDIUM,60,32-48,Self-use (Villa) + Investment
+SCH_0291,Hyderabad (Tellapur/Kollur),1800,4510000,31300,No,No,7.0,1000000,1349,245,18.2,HIGH,77,32-48,Self-use (Villa) + Investment
+SCH_0292,Chennai (OMR/Guduvanchery),1000,1830000,12700,No,No,25.3,750000,910,118,13.0,LOW,45,25-38,First-time Buyers & Investors
+SCH_0293,Delhi (Outer/Bawana),3000,10420000,72400,Yes,No,25.1,2000000,1893,282,14.9,MEDIUM,65,40-60,Affluent Investors & Luxury Homes
+SCH_0294,Faridabad (Neharpar),2400,6750000,46900,No,Yes,27.6,2000000,1956,280,14.3,HIGH,77,32-48,Self-use (Villa) + Investment
+SCH_0295,Chennai (OMR/Guduvanchery),800,1830000,12700,No,No,16.0,1000000,1349,224,16.6,MEDIUM,74,25-38,First-time Buyers & Investors
+SCH_0296,Gurugram (SPR/Sohna),1200,5420000,37600,No,No,23.3,200000,173,17,9.8,LOW,25,32-48,Self-use (Villa) + Investment
+SCH_0297,Pune (Wagholi/Kharadi),2400,5740000,39900,No,Yes,21.8,350000,418,47,11.2,LOW,46,32-48,Self-use (Villa) + Investment
+SCH_0298,Greater Noida,3000,7570000,52600,Yes,Yes,10.5,1000000,2012,396,19.7,HIGH,90,32-48,Self-use (Villa) + Investment
+SCH_0299,Gurugram (SPR/Sohna),1200,4620000,32100,No,No,17.7,200000,248,24,9.7,LOW,28,32-48,Self-use (Villa) + Investment
+SCH_0300,Bengaluru (North),1800,11350000,78800,No,No,16.3,2000000,2572,202,7.9,MEDIUM,57,40-60,Affluent Investors & Luxury Homes
+SCH_0301,Gurugram (SPR/Sohna),800,5060000,35100,No,Yes,21.8,750000,932,85,9.1,MEDIUM,51,32-48,Self-use (Villa) + Investment
+SCH_0302,Greater Noida,1500,6770000,47000,No,No,9.2,200000,352,52,14.8,MEDIUM,50,32-48,Self-use (Villa) + Investment
+SCH_0303,Bengaluru (North),1500,6860000,47600,No,No,9.6,1500000,1886,205,10.9,MEDIUM,56,32-48,Self-use (Villa) + Investment
+SCH_0304,Pune (Wagholi/Kharadi),1500,3810000,26500,Yes,No,4.5,750000,1240,255,20.6,HIGH,81,32-48,Self-use (Villa) + Investment
+SCH_0305,Gurugram (SPR/Sohna),800,3330000,23100,No,Yes,23.0,1000000,1271,135,10.6,MEDIUM,67,25-38,First-time Buyers & Investors
+SCH_0306,Bengaluru (East),3000,11180000,77600,No,No,14.5,200000,290,41,14.1,LOW,43,40-60,Affluent Investors & Luxury Homes
+SCH_0307,Kolkata (New Town/Rajarhat),1500,5160000,35800,No,No,14.5,2000000,2565,373,14.5,MEDIUM,67,32-48,Self-use (Villa) + Investment
+SCH_0308,Chennai (OMR/Guduvanchery),1200,3140000,21800,No,No,20.7,2000000,1922,301,15.7,HIGH,75,25-38,First-time Buyers & Investors
+SCH_0309,Greater Noida,1500,3500000,24300,No,No,3.2,1000000,1668,262,15.7,MEDIUM,68,32-48,Self-use (Villa) + Investment
+SCH_0310,Kolkata (New Town/Rajarhat),1200,3800000,26400,Yes,Yes,11.8,2000000,4033,751,18.6,HIGH,91,32-48,Self-use (Villa) + Investment
+SCH_0311,Kolkata (New Town/Rajarhat),1200,3640000,25300,No,Yes,2.2,1500000,2636,614,23.3,HIGH,96,32-48,Self-use (Villa) + Investment
+SCH_0312,Chennai (OMR/Guduvanchery),1800,4440000,30800,Yes,No,5.6,1000000,1915,257,13.4,MEDIUM,62,32-48,Self-use (Villa) + Investment
+SCH_0313,Pune (Hinjewadi/Wakad),1800,5530000,38400,No,No,13.9,200000,256,36,14.1,LOW,36,32-48,Self-use (Villa) + Investment
+SCH_0314,Delhi (Outer/Bawana),800,2770000,19200,Yes,No,8.3,1500000,2692,408,15.2,HIGH,75,25-38,First-time Buyers & Investors
+SCH_0315,Ahmedabad (SG Highway),1800,3660000,25400,No,No,5.2,1500000,2068,211,10.2,MEDIUM,60,32-48,Self-use (Villa) + Investment
+SCH_0316,Ahmedabad (SG Highway),2400,4340000,30100,No,No,19.7,750000,739,44,6.0,LOW,25,32-48,Self-use (Villa) + Investment
+SCH_0317,Ahmedabad (SG Highway),1500,4890000,34000,Yes,No,15.1,1000000,1194,176,14.7,MEDIUM,71,32-48,Self-use (Villa) + Investment
+SCH_0318,Delhi (Outer/Bawana),1500,3900000,27100,Yes,No,15.8,1500000,2187,269,12.3,MEDIUM,61,32-48,Self-use (Villa) + Investment
+SCH_0319,Faridabad (Neharpar),2400,6770000,47000,No,Yes,8.7,500000,807,134,16.6,MEDIUM,72,32-48,Self-use (Villa) + Investment
+SCH_0320,Pune (Hinjewadi/Wakad),3000,8850000,61500,No,No,16.2,2000000,2470,283,11.5,MEDIUM,63,40-60,Affluent Investors & Luxury Homes
+SCH_0321,Pune (Hinjewadi/Wakad),800,2950000,20500,No,No,26.8,2000000,1653,159,9.6,MEDIUM,52,25-38,First-time Buyers & Investors
+SCH_0322,Greater Noida,1200,5620000,39000,No,No,21.2,350000,282,25,8.9,LOW,28,32-48,Self-use (Villa) + Investment
+SCH_0323,Kolkata (New Town/Rajarhat),1200,4050000,28100,Yes,Yes,7.7,1500000,3304,735,22.2,HIGH,87,32-48,Self-use (Villa) + Investment
+SCH_0324,Bengaluru (East),2400,9520000,66100,No,No,3.9,2000000,2746,552,20.1,MEDIUM,74,40-60,Affluent Investors & Luxury Homes
+SCH_0325,Kolkata (New Town/Rajarhat),1000,2370000,16500,No,No,14.0,350000,462,60,13.0,LOW,37,25-38,First-time Buyers & Investors
+SCH_0326,Pune (Hinjewadi/Wakad),1200,3530000,24500,Yes,No,7.4,1500000,2712,358,13.2,MEDIUM,72,32-48,Self-use (Villa) + Investment
+SCH_0327,Greater Noida,1000,3290000,22800,No,No,2.2,2000000,3256,657,20.2,HIGH,83,25-38,First-time Buyers & Investors
+SCH_0328,Chennai (OMR/Guduvanchery),1000,3380000,23500,No,No,24.7,200000,142,13,9.2,LOW,28,25-38,First-time Buyers & Investors
+SCH_0329,Ahmedabad (SG Highway),800,2690000,18700,No,No,15.8,750000,963,123,12.8,MEDIUM,51,25-38,First-time Buyers & Investors
+SCH_0330,Bengaluru (North),3000,14590000,101300,Yes,No,18.6,1500000,1461,215,14.7,MEDIUM,71,40-60,Affluent Investors & Luxury Homes
+SCH_0331,Faridabad (Neharpar),1200,3720000,25800,Yes,No,23.4,1000000,1017,161,15.8,MEDIUM,62,32-48,Self-use (Villa) + Investment
+SCH_0332,Hyderabad (Tellapur/Kollur),2400,5880000,40800,No,Yes,1.4,750000,1328,278,20.9,HIGH,91,32-48,Self-use (Villa) + Investment
+SCH_0333,Pune (Hinjewadi/Wakad),1200,3580000,24900,Yes,No,19.8,200000,251,24,9.6,LOW,32,32-48,Self-use (Villa) + Investment
+SCH_0334,Chennai (OMR/Guduvanchery),1200,2280000,15800,No,No,18.3,500000,480,46,9.6,LOW,36,25-38,First-time Buyers & Investors
+SCH_0335,Bengaluru (East),1000,6360000,44200,No,No,17.4,750000,854,51,6.0,LOW,21,32-48,Self-use (Villa) + Investment
+SCH_0336,Chennai (OMR/Guduvanchery),3000,7860000,54600,Yes,No,19.4,1000000,1328,130,9.8,MEDIUM,53,32-48,Self-use (Villa) + Investment
+SCH_0337,Gurugram (SPR/Sohna),1800,8410000,58400,Yes,No,4.2,2000000,3613,839,23.2,HIGH,87,40-60,Affluent Investors & Luxury Homes
+SCH_0338,Kolkata (New Town/Rajarhat),1000,2690000,18700,No,No,13.0,1500000,1622,204,12.6,MEDIUM,66,25-38,First-time Buyers & Investors
+SCH_0339,Ahmedabad (SG Highway),1500,2660000,18500,Yes,No,13.4,200000,283,53,18.7,MEDIUM,52,25-38,First-time Buyers & Investors
+SCH_0340,Delhi (Outer/Bawana),3000,6560000,45600,No,No,21.2,1000000,808,81,10.0,LOW,39,32-48,Self-use (Villa) + Investment
+SCH_0341,Hyderabad (Tellapur/Kollur),1200,4830000,33500,Yes,No,3.0,750000,1105,162,14.7,MEDIUM,59,32-48,Self-use (Villa) + Investment
+SCH_0342,Hyderabad (Tellapur/Kollur),1000,4200000,29200,No,No,18.5,750000,752,85,11.3,LOW,42,32-48,Self-use (Villa) + Investment
+SCH_0343,Hyderabad (Tellapur/Kollur),1500,6690000,46500,No,Yes,18.7,500000,484,69,14.3,MEDIUM,54,32-48,Self-use (Villa) + Investment
+SCH_0344,Kolkata (New Town/Rajarhat),1500,3910000,27200,Yes,No,21.5,500000,522,70,13.4,LOW,41,32-48,Self-use (Villa) + Investment
+SCH_0345,Faridabad (Neharpar),1800,4330000,30100,Yes,No,5.4,350000,748,87,11.6,LOW,47,32-48,Self-use (Villa) + Investment
+SCH_0346,Faridabad (Neharpar),3000,5440000,37800,No,Yes,7.6,200000,292,50,17.1,MEDIUM,61,32-48,Self-use (Villa) + Investment
+SCH_0347,Greater Noida,1500,5630000,39100,Yes,Yes,12.0,350000,643,135,21.0,HIGH,75,32-48,Self-use (Villa) + Investment
+SCH_0348,Greater Noida,1000,3510000,24400,No,No,21.9,2000000,1787,168,9.4,MEDIUM,53,32-48,Self-use (Villa) + Investment
+SCH_0349,Pune (Hinjewadi/Wakad),1000,4760000,33100,No,Yes,16.1,1000000,1536,179,11.7,MEDIUM,70,32-48,Self-use (Villa) + Investment
+SCH_0350,Bengaluru (North),2400,13060000,90700,Yes,No,26.4,1500000,1558,147,9.4,LOW,45,40-60,Affluent Investors & Luxury Homes
+SCH_0351,Kolkata (New Town/Rajarhat),1200,3510000,24400,No,No,7.7,350000,435,46,10.6,LOW,31,32-48,Self-use (Villa) + Investment
+SCH_0352,Faridabad (Neharpar),1000,3130000,21700,No,No,27.1,1000000,1047,90,8.6,LOW,46,25-38,First-time Buyers & Investors
+SCH_0353,Hyderabad (Tellapur/Kollur),1000,2860000,19900,Yes,No,23.9,200000,244,32,13.1,LOW,35,25-38,First-time Buyers & Investors
+SCH_0354,Bengaluru (East),800,3270000,22700,Yes,No,6.2,2000000,3585,522,14.6,MEDIUM,69,25-38,First-time Buyers & Investors
+SCH_0355,Delhi (Outer/Bawana),1800,3620000,25100,No,Yes,6.9,350000,820,133,16.2,MEDIUM,74,32-48,Self-use (Villa) + Investment
+SCH_0356,Gurugram (SPR/Sohna),2400,15600000,108300,Yes,No,20.1,750000,972,106,10.9,MEDIUM,51,40-60,Affluent Investors & Luxury Homes
+SCH_0357,Kolkata (New Town/Rajarhat),1200,3690000,25600,No,No,14.9,750000,846,156,18.4,MEDIUM,71,32-48,Self-use (Villa) + Investment
+SCH_0358,Faridabad (Neharpar),1500,4570000,31700,Yes,No,2.4,2000000,3272,673,20.6,HIGH,84,32-48,Self-use (Villa) + Investment
+SCH_0359,Bengaluru (North),800,3250000,22600,No,No,12.4,350000,405,40,9.9,LOW,30,25-38,First-time Buyers & Investors
+SCH_0360,Bengaluru (East),1500,7620000,52900,No,No,27.1,1500000,1651,145,8.8,MEDIUM,50,32-48,Self-use (Villa) + Investment
+SCH_0361,Chennai (OMR/Guduvanchery),1000,2990000,20800,Yes,No,14.3,1000000,1649,208,12.6,MEDIUM,66,25-38,First-time Buyers & Investors
+SCH_0362,Greater Noida,1800,4120000,28600,No,No,19.1,2000000,1576,195,12.4,MEDIUM,67,32-48,Self-use (Villa) + Investment
+SCH_0363,Bengaluru (North),3000,15840000,110000,Yes,No,11.2,1000000,1606,243,15.1,MEDIUM,70,40-60,Affluent Investors & Luxury Homes
+SCH_0364,Ahmedabad (SG Highway),1500,4280000,29700,No,No,15.6,500000,388,46,11.9,LOW,38,32-48,Self-use (Villa) + Investment
+SCH_0365,Faridabad (Neharpar),2400,5800000,40300,No,Yes,15.3,350000,409,42,10.3,LOW,40,32-48,Self-use (Villa) + Investment
+SCH_0366,Kolkata (New Town/Rajarhat),1200,3780000,26200,No,No,13.5,350000,563,78,13.9,LOW,48,32-48,Self-use (Villa) + Investment
+SCH_0367,Bengaluru (East),1200,6550000,45500,No,No,24.2,2000000,1568,142,9.1,MEDIUM,51,32-48,Self-use (Villa) + Investment
+SCH_0368,Hyderabad (Tellapur/Kollur),1500,4770000,33100,Yes,No,3.4,2000000,3550,683,19.2,HIGH,77,32-48,Self-use (Villa) + Investment
+SCH_0369,Pune (Wagholi/Kharadi),1800,8530000,59200,No,No,25.8,350000,288,29,10.1,LOW,31,40-60,Affluent Investors & Luxury Homes
+SCH_0370,Faridabad (Neharpar),1800,4510000,31300,Yes,No,8.7,1000000,1628,311,19.1,HIGH,76,32-48,Self-use (Villa) + Investment
+SCH_0371,Greater Noida,1000,4610000,32000,Yes,No,21.4,1500000,1915,227,11.9,MEDIUM,68,32-48,Self-use (Villa) + Investment
+SCH_0372,Gurugram (SPR/Sohna),1200,4480000,31100,No,No,15.7,750000,962,130,13.5,MEDIUM,50,32-48,Self-use (Villa) + Investment
+SCH_0373,Bengaluru (North),3000,19390000,134600,No,No,7.4,200000,283,40,14.1,LOW,41,40-60,Affluent Investors & Luxury Homes
+SCH_0374,Ahmedabad (SG Highway),1800,4240000,29400,No,No,22.2,750000,781,75,9.6,LOW,42,32-48,Self-use (Villa) + Investment
+SCH_0375,Pune (Wagholi/Kharadi),1800,8360000,58100,No,No,22.6,1500000,1285,129,10.0,LOW,46,40-60,Affluent Investors & Luxury Homes
+SCH_0376,Pune (Hinjewadi/Wakad),1000,3190000,22200,No,No,9.7,200000,275,49,17.8,LOW,48,25-38,First-time Buyers & Investors
+SCH_0377,Pune (Hinjewadi/Wakad),1500,4700000,32600,Yes,No,13.2,1000000,1386,211,15.2,MEDIUM,67,32-48,Self-use (Villa) + Investment
+SCH_0378,Gurugram (SPR/Sohna),800,2800000,19400,No,No,1.5,750000,1192,172,14.4,MEDIUM,62,25-38,First-time Buyers & Investors
+SCH_0379,Gurugram (SPR/Sohna),2400,14820000,102900,No,No,16.5,350000,420,40,9.5,LOW,36,40-60,Affluent Investors & Luxury Homes
+SCH_0380,Bengaluru (North),1000,4090000,28400,Yes,No,8.6,500000,761,140,18.4,MEDIUM,66,32-48,Self-use (Villa) + Investment
+SCH_0381,Gurugram (SPR/Sohna),1200,4840000,33600,No,No,6.4,200000,252,39,15.5,LOW,40,32-48,Self-use (Villa) + Investment
+SCH_0382,Greater Noida,1500,4600000,31900,No,No,23.1,2000000,2145,244,11.4,MEDIUM,64,32-48,Self-use (Villa) + Investment
+SCH_0383,Ahmedabad (SG Highway),1000,2170000,15100,Yes,No,6.0,750000,1577,349,22.1,HIGH,82,25-38,First-time Buyers & Investors
+SCH_0384,Pune (Hinjewadi/Wakad),2400,9620000,66800,Yes,No,23.1,750000,768,87,11.3,LOW,41,40-60,Affluent Investors & Luxury Homes
+SCH_0385,Ahmedabad (SG Highway),1000,2730000,19000,Yes,No,13.6,1500000,1767,335,19.0,HIGH,82,25-38,First-time Buyers & Investors
+SCH_0386,Pune (Hinjewadi/Wakad),3000,12000000,83300,No,No,12.2,750000,785,93,11.8,LOW,47,40-60,Affluent Investors & Luxury Homes
+SCH_0387,Pune (Hinjewadi/Wakad),1000,2860000,19900,No,No,3.2,1000000,1616,300,18.6,HIGH,78,25-38,First-time Buyers & Investors
+SCH_0388,Hyderabad (Tellapur/Kollur),1800,6330000,44000,No,No,15.8,2000000,2709,402,14.8,HIGH,75,32-48,Self-use (Villa) + Investment
+SCH_0389,Faridabad (Neharpar),3000,7860000,54600,Yes,Yes,18.8,500000,525,76,14.5,MEDIUM,58,32-48,Self-use (Villa) + Investment
+SCH_0390,Ahmedabad (SG Highway),800,2140000,14900,No,No,10.1,2000000,2664,416,15.6,HIGH,77,25-38,First-time Buyers & Investors
+SCH_0391,Greater Noida,800,2300000,16000,Yes,No,11.7,2000000,3156,441,14.0,MEDIUM,64,25-38,First-time Buyers & Investors
+SCH_0392,Faridabad (Neharpar),1800,3400000,23600,No,No,12.3,200000,186,25,13.4,LOW,43,25-38,First-time Buyers & Investors
+SCH_0393,Faridabad (Neharpar),1000,2260000,15700,Yes,No,10.5,200000,276,45,16.3,LOW,46,25-38,First-time Buyers & Investors
+SCH_0394,Faridabad (Neharpar),1500,3310000,23000,Yes,No,18.6,1500000,1996,385,19.3,HIGH,77,25-38,First-time Buyers & Investors
+SCH_0395,Faridabad (Neharpar),1000,2580000,17900,No,No,26.9,350000,379,51,13.5,LOW,43,25-38,First-time Buyers & Investors
+SCH_0396,Delhi (Outer/Bawana),1000,1950000,13500,No,No,17.7,350000,426,53,12.4,LOW,38,25-38,First-time Buyers & Investors
+SCH_0397,Hyderabad (Tellapur/Kollur),1500,3320000,23100,No,No,22.9,200000,226,31,13.7,LOW,40,25-38,First-time Buyers & Investors
+SCH_0398,Kolkata (New Town/Rajarhat),1000,2300000,16000,Yes,No,24.3,1000000,1371,214,15.6,HIGH,75,25-38,First-time Buyers & Investors
+SCH_0399,Pune (Wagholi/Kharadi),1800,5780000,40100,Yes,No,17.7,2000000,2611,381,14.6,MEDIUM,69,32-48,Self-use (Villa) + Investment
+SCH_0400,Pune (Hinjewadi/Wakad),1800,6720000,46700,No,No,4.3,500000,878,175,19.9,MEDIUM,73,32-48,Self-use (Villa) + Investment
+SCH_0401,Kolkata (New Town/Rajarhat),1500,3590000,24900,No,No,18.2,1500000,1870,187,10.0,MEDIUM,58,32-48,Self-use (Villa) + Investment
+SCH_0402,Bengaluru (North),1800,6750000,46900,Yes,No,17.8,2000000,2258,304,13.5,MEDIUM,67,32-48,Self-use (Villa) + Investment
+SCH_0403,Greater Noida,1500,3830000,26600,No,No,14.7,750000,803,127,15.8,MEDIUM,61,32-48,Self-use (Villa) + Investment
+SCH_0404,Chennai (OMR/Guduvanchery),1500,4420000,30700,Yes,Yes,22.5,350000,476,70,14.7,MEDIUM,57,32-48,Self-use (Villa) + Investment
+SCH_0405,Pune (Hinjewadi/Wakad),1000,3600000,25000,No,No,21.9,750000,773,115,14.9,MEDIUM,55,32-48,Self-use (Villa) + Investment
+SCH_0406,Gurugram (SPR/Sohna),1800,6440000,44700,No,No,11.0,2000000,2988,463,15.5,MEDIUM,72,32-48,Self-use (Villa) + Investment
+SCH_0407,Faridabad (Neharpar),1500,3960000,27500,No,Yes,9.2,200000,301,51,16.9,MEDIUM,61,32-48,Self-use (Villa) + Investment
+SCH_0408,Pune (Wagholi/Kharadi),3000,12970000,90100,Yes,No,7.6,2000000,3619,591,16.3,MEDIUM,71,40-60,Affluent Investors & Luxury Homes
+SCH_0409,Faridabad (Neharpar),1200,3880000,26900,No,Yes,22.2,2000000,2028,196,9.7,MEDIUM,67,32-48,Self-use (Villa) + Investment
+SCH_0410,Greater Noida,1800,5600000,38900,Yes,No,9.0,500000,968,192,19.8,HIGH,78,32-48,Self-use (Villa) + Investment
+SCH_0411,Kolkata (New Town/Rajarhat),2400,7560000,52500,No,No,27.8,2000000,2117,332,15.7,MEDIUM,67,32-48,Self-use (Villa) + Investment
+SCH_0412,Faridabad (Neharpar),3000,5560000,38600,No,No,21.6,1500000,1347,162,12.0,MEDIUM,56,32-48,Self-use (Villa) + Investment
+SCH_0413,Bengaluru (North),1800,9520000,66100,No,Yes,12.0,1500000,1969,320,16.3,HIGH,83,40-60,Affluent Investors & Luxury Homes
+SCH_0414,Pune (Wagholi/Kharadi),1500,7010000,48700,Yes,No,23.9,200000,227,22,9.7,LOW,31,32-48,Self-use (Villa) + Investment
+SCH_0415,Chennai (OMR/Guduvanchery),2400,6870000,47700,Yes,No,11.9,750000,1272,200,15.7,HIGH,77,32-48,Self-use (Villa) + Investment
+SCH_0416,Chennai (OMR/Guduvanchery),1200,2660000,18500,Yes,No,14.2,500000,757,92,12.2,LOW,43,25-38,First-time Buyers & Investors
+SCH_0417,Greater Noida,800,1970000,13700,No,No,4.5,2000000,2696,474,17.6,MEDIUM,74,25-38,First-time Buyers & Investors
+SCH_0418,Chennai (OMR/Guduvanchery),800,2790000,19400,Yes,No,9.3,2000000,3773,485,12.9,MEDIUM,70,25-38,First-time Buyers & Investors
+SCH_0419,Pune (Hinjewadi/Wakad),800,3120000,21700,No,No,18.6,200000,193,26,13.5,LOW,38,25-38,First-time Buyers & Investors
+SCH_0420,Pune (Hinjewadi/Wakad),2400,9640000,66900,Yes,No,1.2,750000,1190,243,20.4,HIGH,82,40-60,Affluent Investors & Luxury Homes
+SCH_0421,Ahmedabad (SG Highway),1000,2590000,18000,Yes,No,23.1,2000000,2177,355,16.3,MEDIUM,73,25-38,First-time Buyers & Investors
+SCH_0422,Bengaluru (North),1500,5150000,35800,Yes,No,24.8,350000,394,50,12.7,LOW,44,32-48,Self-use (Villa) + Investment
+SCH_0423,Bengaluru (North),2400,15540000,107900,Yes,No,5.6,500000,935,172,18.4,MEDIUM,72,40-60,Affluent Investors & Luxury Homes
+SCH_0424,Delhi (Outer/Bawana),2400,4530000,31500,No,No,3.5,200000,223,38,17.0,LOW,44,32-48,Self-use (Villa) + Investment
+SCH_0425,Gurugram (SPR/Sohna),1800,10100000,70100,No,Yes,7.8,1500000,2075,267,12.9,MEDIUM,74,40-60,Affluent Investors & Luxury Homes
+SCH_0426,Kolkata (New Town/Rajarhat),1800,4930000,34200,Yes,No,18.8,500000,426,50,11.7,LOW,30,32-48,Self-use (Villa) + Investment
+SCH_0427,Ahmedabad (SG Highway),1800,3530000,24500,Yes,No,22.5,350000,335,49,14.6,LOW,46,32-48,Self-use (Villa) + Investment
+SCH_0428,Gurugram (SPR/Sohna),1000,4850000,33700,Yes,No,26.2,350000,384,40,10.4,LOW,33,32-48,Self-use (Villa) + Investment
+SCH_0429,Ahmedabad (SG Highway),1500,3440000,23900,No,No,21.8,200000,207,16,7.7,LOW,29,25-38,First-time Buyers & Investors
+SCH_0430,Greater Noida,1200,3310000,23000,No,No,11.9,500000,716,96,13.4,LOW,49,25-38,First-time Buyers & Investors
+SCH_0431,Kolkata (New Town/Rajarhat),3000,7170000,49800,Yes,No,15.6,350000,410,32,7.8,LOW,26,32-48,Self-use (Villa) + Investment
+SCH_0432,Pune (Hinjewadi/Wakad),800,2820000,19600,Yes,No,16.9,2000000,2799,293,10.5,MEDIUM,60,25-38,First-time Buyers & Investors
+SCH_0433,Delhi (Outer/Bawana),2400,4140000,28700,Yes,Yes,26.0,200000,309,52,16.8,MEDIUM,57,32-48,Self-use (Villa) + Investment
+SCH_0434,Ahmedabad (SG Highway),800,1750000,12200,Yes,No,20.2,1500000,1322,218,16.5,HIGH,76,25-38,First-time Buyers & Investors
+SCH_0435,Chennai (OMR/Guduvanchery),1200,3110000,21600,No,No,5.7,350000,605,74,12.2,LOW,45,25-38,First-time Buyers & Investors
+SCH_0436,Pune (Hinjewadi/Wakad),2400,10810000,75100,No,No,8.5,200000,268,43,16.0,LOW,47,40-60,Affluent Investors & Luxury Homes
+SCH_0437,Ahmedabad (SG Highway),2400,4190000,29100,No,Yes,11.1,500000,895,135,15.1,MEDIUM,73,32-48,Self-use (Villa) + Investment
+SCH_0438,Ahmedabad (SG Highway),2400,7140000,49600,Yes,Yes,7.8,750000,1313,311,23.7,HIGH,95,32-48,Self-use (Villa) + Investment
+SCH_0439,Bengaluru (North),1000,6270000,43500,No,No,25.7,1500000,1662,157,9.4,MEDIUM,50,32-48,Self-use (Villa) + Investment
+SCH_0440,Bengaluru (East),1200,4820000,33500,No,Yes,16.5,200000,239,30,12.6,LOW,47,32-48,Self-use (Villa) + Investment
+SCH_0441,Greater Noida,1000,2780000,19300,Yes,No,3.0,750000,1644,288,17.5,HIGH,75,25-38,First-time Buyers & Investors
+SCH_0442,Pune (Hinjewadi/Wakad),1200,2910000,20200,No,No,21.0,350000,417,63,15.1,LOW,48,25-38,First-time Buyers & Investors
+SCH_0443,Ahmedabad (SG Highway),1500,5240000,36400,No,No,15.8,2000000,2012,227,11.3,MEDIUM,64,32-48,Self-use (Villa) + Investment
+SCH_0444,Greater Noida,1500,3390000,23500,Yes,No,1.2,1500000,2711,497,18.3,MEDIUM,72,25-38,First-time Buyers & Investors
+SCH_0445,Faridabad (Neharpar),2400,5240000,36400,Yes,Yes,27.3,350000,499,85,17.0,MEDIUM,63,32-48,Self-use (Villa) + Investment
+SCH_0446,Gurugram (SPR/Sohna),800,4990000,34600,No,No,13.5,1500000,1552,138,8.9,LOW,43,32-48,Self-use (Villa) + Investment
+SCH_0447,Gurugram (SPR/Sohna),1800,6550000,45500,No,Yes,12.9,350000,451,86,19.1,MEDIUM,73,32-48,Self-use (Villa) + Investment
+SCH_0448,Pune (Hinjewadi/Wakad),3000,9060000,62900,No,No,20.9,500000,472,64,13.6,LOW,43,40-60,Affluent Investors & Luxury Homes
+SCH_0449,Bengaluru (East),800,5050000,35100,Yes,Yes,13.2,500000,750,140,18.7,HIGH,79,32-48,Self-use (Villa) + Investment
+SCH_0450,Kolkata (New Town/Rajarhat),1200,4120000,28600,No,Yes,3.6,2000000,4023,932,23.2,HIGH,98,32-48,Self-use (Villa) + Investment
+SCH_0451,Faridabad (Neharpar),2400,6590000,45800,No,Yes,27.2,750000,844,122,14.5,MEDIUM,67,32-48,Self-use (Villa) + Investment
+SCH_0452,Delhi (Outer/Bawana),1200,2510000,17400,No,No,24.1,1000000,1119,107,9.6,LOW,41,25-38,First-time Buyers & Investors
+SCH_0453,Bengaluru (East),800,3780000,26200,No,Yes,2.9,2000000,4667,1046,22.4,HIGH,96,32-48,Self-use (Villa) + Investment
+SCH_0454,Bengaluru (North),1000,5920000,41100,Yes,No,8.1,2000000,2608,415,15.9,MEDIUM,63,32-48,Self-use (Villa) + Investment
+SCH_0455,Gurugram (SPR/Sohna),1000,6180000,42900,Yes,No,4.5,750000,1107,140,12.6,MEDIUM,54,32-48,Self-use (Villa) + Investment
+SCH_0456,Ahmedabad (SG Highway),1500,4740000,32900,Yes,No,5.8,350000,679,86,12.7,LOW,49,32-48,Self-use (Villa) + Investment
+SCH_0457,Pune (Hinjewadi/Wakad),1200,4030000,28000,Yes,No,14.6,1000000,1300,219,16.8,MEDIUM,74,32-48,Self-use (Villa) + Investment
+SCH_0458,Gurugram (SPR/Sohna),1200,5360000,37200,Yes,No,22.7,2000000,1760,232,13.2,MEDIUM,63,32-48,Self-use (Villa) + Investment
+SCH_0459,Hyderabad (Tellapur/Kollur),3000,12160000,84400,No,No,11.6,350000,393,50,12.7,LOW,35,40-60,Affluent Investors & Luxury Homes
+SCH_0460,Ahmedabad (SG Highway),1000,1660000,11500,No,No,22.9,750000,744,109,14.7,MEDIUM,56,25-38,First-time Buyers & Investors
+SCH_0461,Ahmedabad (SG Highway),1000,3450000,24000,Yes,Yes,21.7,350000,446,65,14.6,MEDIUM,55,25-38,First-time Buyers & Investors
+SCH_0462,Hyderabad (Tellapur/Kollur),1200,5560000,38600,No,Yes,17.1,2000000,2838,410,14.4,HIGH,80,32-48,Self-use (Villa) + Investment
+SCH_0463,Pune (Wagholi/Kharadi),1800,4090000,28400,Yes,No,6.2,2000000,4056,673,16.6,MEDIUM,72,32-48,Self-use (Villa) + Investment
+SCH_0464,Chennai (OMR/Guduvanchery),1800,3940000,27400,Yes,Yes,1.7,750000,1253,267,21.3,HIGH,93,32-48,Self-use (Villa) + Investment
+SCH_0465,Ahmedabad (SG Highway),1000,3130000,21700,Yes,No,23.8,500000,471,61,13.0,LOW,44,25-38,First-time Buyers & Investors
+SCH_0466,Bengaluru (North),1800,9950000,69100,Yes,No,24.3,200000,208,23,11.1,LOW,25,40-60,Affluent Investors & Luxury Homes
+SCH_0467,Delhi (Outer/Bawana),1500,4070000,28300,No,Yes,20.8,750000,1006,144,14.3,MEDIUM,72,32-48,Self-use (Villa) + Investment
+SCH_0468,Chennai (OMR/Guduvanchery),2400,5290000,36700,No,Yes,11.3,1500000,2373,515,21.7,HIGH,93,32-48,Self-use (Villa) + Investment
+SCH_0469,Bengaluru (North),1000,5610000,39000,No,No,11.7,2000000,3201,300,9.4,MEDIUM,61,32-48,Self-use (Villa) + Investment
+SCH_0470,Greater Noida,1000,3770000,26200,No,No,7.1,1000000,1186,147,12.4,MEDIUM,61,32-48,Self-use (Villa) + Investment
+SCH_0471,Chennai (OMR/Guduvanchery),1000,2230000,15500,No,No,5.7,200000,349,50,14.3,LOW,45,25-38,First-time Buyers & Investors
+SCH_0472,Delhi (Outer/Bawana),2400,7170000,49800,Yes,Yes,19.8,500000,580,92,15.9,MEDIUM,64,32-48,Self-use (Villa) + Investment
+SCH_0473,Gurugram (SPR/Sohna),2400,7690000,53400,No,No,24.9,750000,962,104,10.8,LOW,46,32-48,Self-use (Villa) + Investment
+SCH_0474,Pune (Wagholi/Kharadi),1800,5720000,39700,No,No,16.7,2000000,2426,333,13.7,MEDIUM,71,32-48,Self-use (Villa) + Investment
+SCH_0475,Bengaluru (North),1500,5160000,35800,No,No,8.2,200000,255,28,11.0,LOW,37,32-48,Self-use (Villa) + Investment
+SCH_0476,Bengaluru (North),1500,5600000,38900,Yes,No,20.1,750000,967,133,13.8,MEDIUM,54,32-48,Self-use (Villa) + Investment
+SCH_0477,Bengaluru (North),1800,11050000,76700,Yes,Yes,12.2,1000000,1794,310,17.3,HIGH,86,40-60,Affluent Investors & Luxury Homes
+SCH_0478,Faridabad (Neharpar),1800,3790000,26300,Yes,No,16.5,2000000,2488,423,17.0,HIGH,75,32-48,Self-use (Villa) + Investment
+SCH_0479,Greater Noida,1200,2650000,18400,No,Yes,6.7,1500000,2346,443,18.9,HIGH,91,25-38,First-time Buyers & Investors
+SCH_0480,Gurugram (SPR/Sohna),1500,8980000,62400,No,No,3.6,1000000,1508,248,16.4,HIGH,75,40-60,Affluent Investors & Luxury Homes
+SCH_0481,Pune (Wagholi/Kharadi),1500,4740000,32900,No,No,7.3,500000,753,131,17.4,MEDIUM,62,32-48,Self-use (Villa) + Investment
+SCH_0482,Bengaluru (North),3000,16500000,114600,No,No,12.3,2000000,2669,308,11.5,MEDIUM,63,40-60,Affluent Investors & Luxury Homes
+SCH_0483,Kolkata (New Town/Rajarhat),800,2560000,17800,No,No,16.5,350000,346,25,7.2,LOW,29,25-38,First-time Buyers & Investors
+SCH_0484,Gurugram (SPR/Sohna),1500,9270000,64400,Yes,No,5.8,350000,707,81,11.5,LOW,36,40-60,Affluent Investors & Luxury Homes
+SCH_0485,Bengaluru (East),1000,3340000,23200,No,Yes,23.6,500000,504,51,10.1,LOW,49,25-38,First-time Buyers & Investors
+SCH_0486,Faridabad (Neharpar),3000,5180000,36000,No,No,24.2,1000000,1013,94,9.3,LOW,47,32-48,Self-use (Villa) + Investment
+SCH_0487,Greater Noida,3000,12060000,83700,No,Yes,5.2,1000000,1907,299,15.7,MEDIUM,74,40-60,Affluent Investors & Luxury Homes
+SCH_0488,Gurugram (SPR/Sohna),800,4050000,28100,No,No,24.8,750000,747,44,5.9,LOW,20,32-48,Self-use (Villa) + Investment
+SCH_0489,Delhi (Outer/Bawana),1500,4030000,28000,Yes,Yes,17.8,1500000,2225,480,21.6,HIGH,97,32-48,Self-use (Villa) + Investment
+SCH_0490,Greater Noida,1500,6770000,47000,Yes,No,25.9,500000,455,65,14.3,LOW,48,32-48,Self-use (Villa) + Investment
+SCH_0491,Pune (Hinjewadi/Wakad),1200,3510000,24400,Yes,No,7.3,500000,1036,173,16.7,MEDIUM,69,32-48,Self-use (Villa) + Investment
+SCH_0492,Chennai (OMR/Guduvanchery),3000,9510000,66000,No,No,3.6,750000,1062,160,15.1,MEDIUM,62,40-60,Affluent Investors & Luxury Homes
+SCH_0493,Hyderabad (Tellapur/Kollur),2400,8300000,57600,No,No,15.0,350000,269,36,13.4,LOW,36,40-60,Affluent Investors & Luxury Homes
+SCH_0494,Faridabad (Neharpar),1800,4260000,29600,No,Yes,5.9,2000000,3022,512,16.9,HIGH,88,32-48,Self-use (Villa) + Investment
+SCH_0495,Greater Noida,1000,2290000,15900,No,No,8.5,2000000,2855,287,10.1,MEDIUM,57,25-38,First-time Buyers & Investors
+SCH_0496,Hyderabad (Tellapur/Kollur),2400,11040000,76700,Yes,No,6.0,2000000,3434,465,13.5,MEDIUM,66,40-60,Affluent Investors & Luxury Homes
+SCH_0497,Kolkata (New Town/Rajarhat),1200,2700000,18700,No,Yes,8.8,750000,994,139,14.0,MEDIUM,68,25-38,First-time Buyers & Investors
+SCH_0498,Ahmedabad (SG Highway),3000,10300000,71500,No,No,19.4,500000,487,46,9.4,LOW,33,40-60,Affluent Investors & Luxury Homes
+SCH_0499,Kolkata (New Town/Rajarhat),800,2590000,18000,No,No,13.9,350000,398,60,15.1,LOW,46,25-38,First-time Buyers & Investors
+SCH_0500,Ahmedabad (SG Highway),3000,4850000,33700,No,No,20.2,500000,500,57,11.4,LOW,42,32-48,Self-use (Villa) + Investment
+SCH_0501,Hyderabad (Tellapur/Kollur),3000,9320000,64700,No,No,16.9,200000,223,22,9.9,LOW,29,40-60,Affluent Investors & Luxury Homes
+SCH_0502,Delhi (Outer/Bawana),3000,9580000,66500,No,Yes,14.1,500000,867,144,16.6,MEDIUM,74,40-60,Affluent Investors & Luxury Homes
+SCH_0503,Delhi (Outer/Bawana),1200,3880000,26900,No,Yes,25.3,2000000,2644,313,11.8,MEDIUM,69,32-48,Self-use (Villa) + Investment
+SCH_0504,Ahmedabad (SG Highway),1500,4280000,29700,Yes,No,27.9,500000,723,71,9.8,LOW,35,32-48,Self-use (Villa) + Investment
+SCH_0505,Hyderabad (Tellapur/Kollur),1500,6170000,42800,Yes,Yes,19.6,1500000,2122,376,17.7,HIGH,85,32-48,Self-use (Villa) + Investment
+SCH_0506,Delhi (Outer/Bawana),1200,3080000,21400,No,No,24.7,350000,359,33,9.2,LOW,30,25-38,First-time Buyers & Investors
+SCH_0507,Chennai (OMR/Guduvanchery),1000,3010000,20900,Yes,No,25.3,1500000,1332,244,18.3,MEDIUM,73,25-38,First-time Buyers & Investors
+SCH_0508,Pune (Wagholi/Kharadi),1000,4130000,28700,No,No,13.6,200000,252,39,15.5,LOW,44,32-48,Self-use (Villa) + Investment
+SCH_0509,Delhi (Outer/Bawana),1800,4860000,33700,No,No,14.6,2000000,2563,350,13.7,MEDIUM,67,32-48,Self-use (Villa) + Investment
+SCH_0510,Kolkata (New Town/Rajarhat),1200,2860000,19900,No,Yes,10.4,1000000,1836,347,18.9,HIGH,94,25-38,First-time Buyers & Investors
+SCH_0511,Chennai (OMR/Guduvanchery),1000,2200000,15300,Yes,No,18.1,350000,355,33,9.3,LOW,30,25-38,First-time Buyers & Investors
+SCH_0512,Greater Noida,800,2700000,18700,Yes,No,5.4,2000000,4008,560,14.0,MEDIUM,73,25-38,First-time Buyers & Investors
+SCH_0513,Gurugram (SPR/Sohna),1000,5230000,36300,No,No,11.5,200000,324,34,10.5,LOW,34,32-48,Self-use (Villa) + Investment
+SCH_0514,Faridabad (Neharpar),1200,4090000,28400,No,No,15.4,200000,305,30,9.8,LOW,30,32-48,Self-use (Villa) + Investment
+SCH_0515,Delhi (Outer/Bawana),2400,4970000,34500,No,Yes,11.5,1000000,1356,189,13.9,MEDIUM,74,32-48,Self-use (Villa) + Investment
+SCH_0516,Gurugram (SPR/Sohna),3000,10050000,69800,No,No,12.8,1500000,2275,320,14.1,MEDIUM,66,40-60,Affluent Investors & Luxury Homes
+SCH_0517,Pune (Wagholi/Kharadi),1500,4700000,32600,No,Yes,20.7,350000,356,34,9.6,LOW,41,32-48,Self-use (Villa) + Investment
+SCH_0518,Greater Noida,1800,6320000,43900,Yes,No,21.9,1000000,916,73,8.0,LOW,35,32-48,Self-use (Villa) + Investment
+SCH_0519,Greater Noida,2400,5950000,41300,No,Yes,12.4,750000,953,128,13.4,MEDIUM,69,32-48,Self-use (Villa) + Investment
+SCH_0520,Pune (Hinjewadi/Wakad),1500,6040000,41900,Yes,Yes,19.0,500000,689,94,13.6,MEDIUM,59,32-48,Self-use (Villa) + Investment
+SCH_0521,Faridabad (Neharpar),1000,2400000,16700,No,No,17.8,500000,454,50,11.0,LOW,38,25-38,First-time Buyers & Investors
+SCH_0522,Gurugram (SPR/Sohna),1500,5780000,40100,No,No,27.3,500000,513,58,11.3,LOW,34,32-48,Self-use (Villa) + Investment
+SCH_0523,Pune (Hinjewadi/Wakad),1000,2300000,16000,Yes,No,14.1,350000,362,49,13.5,LOW,39,25-38,First-time Buyers & Investors
+SCH_0524,Delhi (Outer/Bawana),800,2660000,18500,No,No,5.2,200000,396,66,16.7,MEDIUM,52,25-38,First-time Buyers & Investors
+SCH_0525,Gurugram (SPR/Sohna),2400,13410000,93100,No,No,13.4,500000,513,57,11.1,LOW,41,40-60,Affluent Investors & Luxury Homes
+SCH_0526,Greater Noida,800,3450000,24000,No,No,10.9,1500000,1838,363,19.7,HIGH,81,25-38,First-time Buyers & Investors
+SCH_0527,Faridabad (Neharpar),800,1420000,9900,No,No,24.0,1500000,1602,163,10.2,MEDIUM,54,25-38,First-time Buyers & Investors
+SCH_0528,Pune (Wagholi/Kharadi),1200,5430000,37700,No,Yes,11.2,500000,646,118,18.3,HIGH,75,32-48,Self-use (Villa) + Investment
+SCH_0529,Hyderabad (Tellapur/Kollur),1500,7050000,49000,No,No,14.0,750000,943,100,10.6,LOW,38,32-48,Self-use (Villa) + Investment
+SCH_0530,Bengaluru (North),800,2910000,20200,Yes,No,22.7,1500000,1645,168,10.2,LOW,48,25-38,First-time Buyers & Investors
+SCH_0531,Ahmedabad (SG Highway),1500,4620000,32100,Yes,No,4.2,750000,1329,335,25.2,HIGH,90,32-48,Self-use (Villa) + Investment
+SCH_0532,Gurugram (SPR/Sohna),1200,6430000,44600,Yes,No,19.2,500000,593,66,11.1,LOW,39,32-48,Self-use (Villa) + Investment
+SCH_0533,Faridabad (Neharpar),2400,6660000,46200,Yes,No,5.2,2000000,3641,556,15.3,MEDIUM,71,32-48,Self-use (Villa) + Investment
+SCH_0534,Ahmedabad (SG Highway),800,1300000,9000,No,No,13.8,750000,1079,133,12.3,MEDIUM,56,25-38,First-time Buyers & Investors
+SCH_0535,Gurugram (SPR/Sohna),3000,14470000,100500,No,Yes,16.0,750000,925,107,11.6,MEDIUM,59,40-60,Affluent Investors & Luxury Homes
+SCH_0536,Bengaluru (East),800,3770000,26200,No,No,13.2,200000,272,38,14.0,LOW,40,32-48,Self-use (Villa) + Investment
+SCH_0537,Faridabad (Neharpar),2400,3920000,27200,Yes,No,1.2,200000,477,96,20.1,MEDIUM,62,32-48,Self-use (Villa) + Investment
+SCH_0538,Ahmedabad (SG Highway),2400,5230000,36300,Yes,No,13.4,500000,676,131,19.4,MEDIUM,69,32-48,Self-use (Villa) + Investment
+SCH_0539,Greater Noida,3000,8340000,57900,No,No,10.9,750000,826,88,10.7,LOW,39,40-60,Affluent Investors & Luxury Homes
+SCH_0540,Delhi (Outer/Bawana),1000,1600000,11100,No,No,11.2,200000,200,24,12.0,LOW,34,25-38,First-time Buyers & Investors
+SCH_0541,Bengaluru (North),1500,5500000,38200,No,Yes,6.2,2000000,3345,596,17.8,HIGH,85,32-48,Self-use (Villa) + Investment
+SCH_0542,Chennai (OMR/Guduvanchery),3000,9250000,64200,Yes,No,2.4,1500000,3280,628,19.1,MEDIUM,72,40-60,Affluent Investors & Luxury Homes
+SCH_0543,Ahmedabad (SG Highway),800,2450000,17000,Yes,No,1.3,1500000,2273,423,18.6,MEDIUM,74,25-38,First-time Buyers & Investors
+SCH_0544,Hyderabad (Tellapur/Kollur),3000,11160000,77500,No,No,25.6,1500000,1569,232,14.8,MEDIUM,73,40-60,Affluent Investors & Luxury Homes
+SCH_0545,Faridabad (Neharpar),3000,5530000,38400,No,No,12.4,1000000,1511,267,17.7,HIGH,76,32-48,Self-use (Villa) + Investment
+SCH_0546,Bengaluru (East),1200,5420000,37600,No,Yes,4.9,1000000,1973,354,17.9,HIGH,85,32-48,Self-use (Villa) + Investment
+SCH_0547,Faridabad (Neharpar),1800,3900000,27100,No,No,26.3,1500000,1290,147,11.4,MEDIUM,54,32-48,Self-use (Villa) + Investment
+SCH_0548,Bengaluru (East),1800,10000000,69400,Yes,No,18.6,350000,402,48,11.9,LOW,41,40-60,Affluent Investors & Luxury Homes
+SCH_0549,Faridabad (Neharpar),2400,5310000,36900,No,No,16.8,1500000,1836,133,7.2,LOW,35,32-48,Self-use (Villa) + Investment
+SCH_0550,Delhi (Outer/Bawana),2400,7920000,55000,No,No,15.2,200000,251,19,7.6,LOW,23,32-48,Self-use (Villa) + Investment
+SCH_0551,Greater Noida,2400,5630000,39100,Yes,No,19.5,350000,411,34,8.3,LOW,30,32-48,Self-use (Villa) + Investment
+SCH_0552,Faridabad (Neharpar),3000,6480000,45000,No,No,3.9,2000000,3530,549,15.6,MEDIUM,63,32-48,Self-use (Villa) + Investment
+SCH_0553,Kolkata (New Town/Rajarhat),3000,6080000,42200,No,No,19.8,200000,219,26,11.9,LOW,29,32-48,Self-use (Villa) + Investment
+SCH_0554,Hyderabad (Tellapur/Kollur),1500,7030000,48800,No,Yes,1.5,500000,861,167,19.4,HIGH,85,32-48,Self-use (Villa) + Investment
+SCH_0555,Chennai (OMR/Guduvanchery),3000,6090000,42300,No,No,15.8,1000000,984,84,8.5,LOW,40,32-48,Self-use (Villa) + Investment
+SCH_0556,Faridabad (Neharpar),1000,2160000,15000,Yes,No,5.9,1000000,1421,226,15.9,MEDIUM,69,25-38,First-time Buyers & Investors
+SCH_0557,Greater Noida,1500,4390000,30500,Yes,No,8.0,500000,787,108,13.7,MEDIUM,51,32-48,Self-use (Villa) + Investment
+SCH_0558,Bengaluru (North),800,2970000,20600,Yes,No,18.0,2000000,2580,246,9.5,MEDIUM,54,25-38,First-time Buyers & Investors
+SCH_0559,Chennai (OMR/Guduvanchery),3000,8060000,56000,No,Yes,15.2,2000000,2730,354,13.0,MEDIUM,74,40-60,Affluent Investors & Luxury Homes
+SCH_0560,Hyderabad (Tellapur/Kollur),1800,6470000,44900,Yes,No,19.0,500000,564,64,11.3,LOW,45,32-48,Self-use (Villa) + Investment
+SCH_0561,Bengaluru (East),3000,15720000,109200,Yes,No,13.1,1500000,2228,284,12.7,MEDIUM,72,40-60,Affluent Investors & Luxury Homes
+SCH_0562,Ahmedabad (SG Highway),1000,3420000,23700,No,Yes,11.5,1000000,1643,301,18.3,HIGH,88,25-38,First-time Buyers & Investors
+SCH_0563,Greater Noida,1800,7810000,54200,No,No,25.3,350000,365,54,14.8,LOW,44,32-48,Self-use (Villa) + Investment
+SCH_0564,Gurugram (SPR/Sohna),800,3000000,20800,No,Yes,18.0,350000,428,62,14.5,MEDIUM,53,25-38,First-time Buyers & Investors
+SCH_0565,Bengaluru (East),3000,16390000,113800,No,No,18.5,200000,298,27,9.1,LOW,27,40-60,Affluent Investors & Luxury Homes
+SCH_0566,Bengaluru (North),800,3770000,26200,Yes,Yes,22.5,1000000,1024,124,12.1,MEDIUM,58,32-48,Self-use (Villa) + Investment
+SCH_0567,Bengaluru (East),1200,5450000,37800,No,Yes,11.6,200000,347,51,14.7,MEDIUM,50,32-48,Self-use (Villa) + Investment
+SCH_0568,Delhi (Outer/Bawana),2400,6660000,46200,No,No,20.0,200000,204,28,13.7,LOW,40,32-48,Self-use (Villa) + Investment
+SCH_0569,Kolkata (New Town/Rajarhat),800,1720000,11900,Yes,No,26.0,750000,831,92,11.1,LOW,39,25-38,First-time Buyers & Investors
+SCH_0570,Delhi (Outer/Bawana),800,2000000,13900,Yes,No,22.6,2000000,2333,284,12.2,MEDIUM,64,25-38,First-time Buyers & Investors
+SCH_0571,Delhi (Outer/Bawana),1000,2170000,15100,No,No,24.4,1500000,1455,180,12.4,MEDIUM,63,25-38,First-time Buyers & Investors
+SCH_0572,Greater Noida,1800,8050000,55900,Yes,No,15.6,200000,308,35,11.4,LOW,37,40-60,Affluent Investors & Luxury Homes
+SCH_0573,Faridabad (Neharpar),2400,7960000,55300,No,No,24.0,350000,296,34,11.5,LOW,39,32-48,Self-use (Villa) + Investment
+SCH_0574,Bengaluru (East),1800,10720000,74400,Yes,No,16.4,200000,306,37,12.1,LOW,39,40-60,Affluent Investors & Luxury Homes
+SCH_0575,Kolkata (New Town/Rajarhat),1500,4240000,29400,Yes,Yes,20.6,750000,1133,151,13.3,MEDIUM,65,32-48,Self-use (Villa) + Investment
+SCH_0576,Pune (Wagholi/Kharadi),1000,3950000,27400,No,No,25.3,500000,427,68,15.9,LOW,46,32-48,Self-use (Villa) + Investment
+SCH_0577,Pune (Wagholi/Kharadi),1800,7050000,49000,Yes,No,11.0,500000,895,137,15.3,MEDIUM,61,32-48,Self-use (Villa) + Investment
+SCH_0578,Bengaluru (North),800,3390000,23500,No,No,18.4,500000,624,82,13.1,LOW,44,25-38,First-time Buyers & Investors
+SCH_0579,Bengaluru (North),2400,13490000,93700,No,No,22.0,750000,760,73,9.6,LOW,36,40-60,Affluent Investors & Luxury Homes
+SCH_0580,Bengaluru (North),2400,12480000,86700,No,No,5.0,1000000,1415,187,13.2,MEDIUM,66,40-60,Affluent Investors & Luxury Homes
+SCH_0581,Faridabad (Neharpar),2400,4190000,29100,Yes,No,18.1,2000000,2449,390,15.9,MEDIUM,72,32-48,Self-use (Villa) + Investment
+SCH_0582,Hyderabad (Tellapur/Kollur),3000,11200000,77800,No,No,15.8,1000000,1078,129,12.0,MEDIUM,50,40-60,Affluent Investors & Luxury Homes
+SCH_0583,Bengaluru (North),1200,5390000,37400,No,No,24.2,350000,325,40,12.3,LOW,41,32-48,Self-use (Villa) + Investment
+SCH_0584,Kolkata (New Town/Rajarhat),800,1880000,13100,Yes,No,22.8,1000000,1211,166,13.7,MEDIUM,67,25-38,First-time Buyers & Investors
+SCH_0585,Kolkata (New Town/Rajarhat),1000,2450000,17000,Yes,No,14.2,500000,540,121,22.4,MEDIUM,73,25-38,First-time Buyers & Investors
+SCH_0586,Chennai (OMR/Guduvanchery),1000,1720000,11900,Yes,No,15.1,2000000,2386,355,14.9,MEDIUM,71,25-38,First-time Buyers & Investors
+SCH_0587,Chennai (OMR/Guduvanchery),1500,4910000,34100,No,No,23.6,500000,561,71,12.7,LOW,42,32-48,Self-use (Villa) + Investment
+SCH_0588,Ahmedabad (SG Highway),1000,2320000,16100,Yes,No,11.3,350000,479,74,15.4,LOW,46,25-38,First-time Buyers & Investors
+SCH_0589,Pune (Wagholi/Kharadi),3000,13370000,92800,No,No,1.4,350000,566,104,18.4,MEDIUM,65,40-60,Affluent Investors & Luxury Homes
+SCH_0590,Bengaluru (East),800,3920000,27200,Yes,No,17.3,2000000,2005,200,10.0,MEDIUM,61,32-48,Self-use (Villa) + Investment
+SCH_0591,Bengaluru (East),1500,8820000,61200,No,No,14.0,1000000,1065,111,10.4,LOW,45,40-60,Affluent Investors & Luxury Homes
+SCH_0592,Hyderabad (Tellapur/Kollur),800,2270000,15800,Yes,No,14.9,1000000,1103,154,14.0,MEDIUM,62,25-38,First-time Buyers & Investors
+SCH_0593,Bengaluru (North),1200,7490000,52000,No,No,16.3,200000,258,25,9.7,LOW,27,32-48,Self-use (Villa) + Investment
+SCH_0594,Faridabad (Neharpar),2400,7590000,52700,No,No,24.4,350000,289,37,12.8,LOW,36,32-48,Self-use (Villa) + Investment
+SCH_0595,Hyderabad (Tellapur/Kollur),1800,4630000,32200,Yes,No,14.9,350000,567,85,15.0,MEDIUM,51,32-48,Self-use (Villa) + Investment
+SCH_0596,Pune (Wagholi/Kharadi),1500,5630000,39100,No,Yes,1.6,1000000,2329,371,15.9,HIGH,77,32-48,Self-use (Villa) + Investment
+SCH_0597,Kolkata (New Town/Rajarhat),2400,5750000,39900,Yes,Yes,24.7,1000000,1215,226,18.6,HIGH,86,32-48,Self-use (Villa) + Investment
+SCH_0598,Gurugram (SPR/Sohna),800,3830000,26600,Yes,No,22.0,1500000,1712,198,11.6,MEDIUM,63,32-48,Self-use (Villa) + Investment
+SCH_0599,Hyderabad (Tellapur/Kollur),1200,5370000,37300,No,No,22.4,750000,750,120,16.0,MEDIUM,64,32-48,Self-use (Villa) + Investment
+SCH_0600,Faridabad (Neharpar),3000,9570000,66500,No,No,21.7,2000000,1658,224,13.5,MEDIUM,69,40-60,Affluent Investors & Luxury Homes
+SCH_0601,Ahmedabad (SG Highway),1800,4280000,29700,Yes,No,4.4,200000,365,64,17.5,LOW,49,32-48,Self-use (Villa) + Investment
+SCH_0602,Bengaluru (East),2400,14050000,97600,Yes,No,8.2,1000000,1564,212,13.6,MEDIUM,66,40-60,Affluent Investors & Luxury Homes
+SCH_0603,Pune (Wagholi/Kharadi),1800,5250000,36500,Yes,No,6.0,1000000,1788,328,18.3,HIGH,77,32-48,Self-use (Villa) + Investment
+SCH_0604,Pune (Hinjewadi/Wakad),1200,4440000,30800,No,Yes,24.1,1500000,1472,156,10.6,MEDIUM,63,32-48,Self-use (Villa) + Investment
+SCH_0605,Bengaluru (East),1500,8680000,60300,No,No,22.3,2000000,2016,120,6.0,LOW,38,40-60,Affluent Investors & Luxury Homes
+SCH_0606,Faridabad (Neharpar),2400,7060000,49000,Yes,No,23.3,750000,996,167,16.8,MEDIUM,70,32-48,Self-use (Villa) + Investment
+SCH_0607,Hyderabad (Tellapur/Kollur),800,1890000,13100,Yes,No,20.6,750000,846,149,17.6,MEDIUM,70,25-38,First-time Buyers & Investors
+SCH_0608,Kolkata (New Town/Rajarhat),1200,3540000,24600,Yes,No,13.0,350000,589,90,15.3,LOW,49,32-48,Self-use (Villa) + Investment
+SCH_0609,Kolkata (New Town/Rajarhat),1200,2360000,16400,No,No,19.9,1000000,834,114,13.7,MEDIUM,58,25-38,First-time Buyers & Investors
+SCH_0610,Greater Noida,1200,3390000,23500,Yes,No,22.1,500000,655,77,11.8,LOW,39,25-38,First-time Buyers & Investors
+SCH_0611,Hyderabad (Tellapur/Kollur),1800,4900000,34000,Yes,No,15.9,1500000,2195,188,8.6,MEDIUM,56,32-48,Self-use (Villa) + Investment
+SCH_0612,Ahmedabad (SG Highway),1200,2710000,18800,No,Yes,13.4,750000,1097,168,15.3,MEDIUM,70,25-38,First-time Buyers & Investors
+SCH_0613,Pune (Hinjewadi/Wakad),1000,3260000,22600,Yes,No,26.6,2000000,2264,264,11.7,MEDIUM,60,25-38,First-time Buyers & Investors
+SCH_0614,Pune (Hinjewadi/Wakad),1800,7770000,54000,No,No,16.3,2000000,1873,204,10.9,MEDIUM,67,32-48,Self-use (Villa) + Investment
+SCH_0615,Pune (Wagholi/Kharadi),3000,10180000,70700,Yes,No,3.0,1500000,3212,573,17.8,MEDIUM,74,40-60,Affluent Investors & Luxury Homes
+SCH_0616,Bengaluru (East),2400,13230000,91900,No,No,15.0,200000,271,25,9.2,LOW,29,40-60,Affluent Investors & Luxury Homes
+SCH_0617,Pune (Hinjewadi/Wakad),1000,2950000,20500,No,Yes,14.0,500000,633,123,19.4,HIGH,75,25-38,First-time Buyers & Investors
+SCH_0618,Ahmedabad (SG Highway),1200,2340000,16200,Yes,No,6.6,1500000,2235,308,13.8,MEDIUM,65,25-38,First-time Buyers & Investors
+SCH_0619,Pune (Hinjewadi/Wakad),1000,2800000,19400,No,No,10.7,2000000,2201,328,14.9,MEDIUM,73,25-38,First-time Buyers & Investors
+SCH_0620,Gurugram (SPR/Sohna),2400,15250000,105900,Yes,No,15.7,200000,268,39,14.6,LOW,40,40-60,Affluent Investors & Luxury Homes
+SCH_0621,Pune (Wagholi/Kharadi),1800,5440000,37800,No,No,16.6,500000,550,50,9.1,LOW,25,32-48,Self-use (Villa) + Investment
+SCH_0622,Kolkata (New Town/Rajarhat),1200,2830000,19700,No,No,14.0,1000000,982,155,15.8,MEDIUM,63,25-38,First-time Buyers & Investors
+SCH_0623,Pune (Wagholi/Kharadi),1500,6660000,46200,No,Yes,19.9,750000,789,116,14.7,MEDIUM,60,32-48,Self-use (Villa) + Investment
+SCH_0624,Greater Noida,800,3160000,21900,Yes,No,6.2,500000,735,132,18.0,MEDIUM,60,25-38,First-time Buyers & Investors
+SCH_0625,Chennai (OMR/Guduvanchery),1800,4050000,28100,No,No,11.0,750000,909,96,10.6,LOW,44,32-48,Self-use (Villa) + Investment
+SCH_0626,Bengaluru (North),1800,6540000,45400,Yes,No,20.5,2000000,1964,176,9.0,MEDIUM,57,32-48,Self-use (Villa) + Investment
+SCH_0627,Hyderabad (Tellapur/Kollur),3000,9570000,66500,Yes,Yes,5.9,750000,1198,197,16.4,HIGH,83,40-60,Affluent Investors & Luxury Homes
+SCH_0628,Delhi (Outer/Bawana),1800,4710000,32700,No,Yes,11.9,1500000,1933,269,13.9,HIGH,78,32-48,Self-use (Villa) + Investment
+SCH_0629,Bengaluru (East),3000,12120000,84200,No,No,8.2,500000,758,119,15.7,MEDIUM,58,40-60,Affluent Investors & Luxury Homes
+SCH_0630,Pune (Hinjewadi/Wakad),1200,2700000,18700,Yes,No,18.6,1000000,964,105,10.9,LOW,45,25-38,First-time Buyers & Investors
+SCH_0631,Pune (Hinjewadi/Wakad),1200,3650000,25300,No,No,11.4,500000,610,40,6.6,LOW,27,32-48,Self-use (Villa) + Investment
+SCH_0632,Bengaluru (North),3000,11260000,78200,No,No,24.0,200000,192,11,5.7,LOW,20,40-60,Affluent Investors & Luxury Homes
+SCH_0633,Pune (Wagholi/Kharadi),1000,3020000,21000,No,No,11.8,750000,1121,214,19.1,HIGH,78,25-38,First-time Buyers & Investors
+SCH_0634,Pune (Wagholi/Kharadi),2400,8940000,62100,No,Yes,24.1,350000,418,54,12.9,MEDIUM,55,40-60,Affluent Investors & Luxury Homes
+SCH_0635,Delhi (Outer/Bawana),1200,4060000,28200,Yes,No,4.0,200000,412,70,17.0,MEDIUM,50,32-48,Self-use (Villa) + Investment
+SCH_0636,Chennai (OMR/Guduvanchery),1800,3060000,21200,No,Yes,4.0,1000000,1535,304,19.8,HIGH,94,25-38,First-time Buyers & Investors
+SCH_0637,Delhi (Outer/Bawana),1500,3280000,22800,No,Yes,4.7,2000000,3118,588,18.9,HIGH,87,25-38,First-time Buyers & Investors
+SCH_0638,Greater Noida,2400,7510000,52100,No,No,13.7,2000000,2438,395,16.2,MEDIUM,72,32-48,Self-use (Villa) + Investment
+SCH_0639,Pune (Hinjewadi/Wakad),1800,6040000,41900,No,No,5.9,1000000,1504,330,21.9,HIGH,85,32-48,Self-use (Villa) + Investment
+SCH_0640,Faridabad (Neharpar),2400,7840000,54400,No,No,14.1,350000,455,58,12.7,LOW,44,32-48,Self-use (Villa) + Investment
+SCH_0641,Chennai (OMR/Guduvanchery),1200,2750000,19100,No,Yes,10.4,750000,1192,153,12.8,MEDIUM,70,25-38,First-time Buyers & Investors
+SCH_0642,Faridabad (Neharpar),1500,5100000,35400,Yes,No,22.6,1000000,957,169,17.7,MEDIUM,73,32-48,Self-use (Villa) + Investment
+SCH_0643,Greater Noida,1800,5710000,39600,No,Yes,20.4,1500000,1619,270,16.7,HIGH,84,32-48,Self-use (Villa) + Investment
+SCH_0644,Hyderabad (Tellapur/Kollur),1000,2880000,20000,Yes,No,8.8,1500000,2454,422,17.2,MEDIUM,72,25-38,First-time Buyers & Investors
+SCH_0645,Pune (Hinjewadi/Wakad),1500,4030000,28000,Yes,No,17.8,500000,623,97,15.6,MEDIUM,52,32-48,Self-use (Villa) + Investment
+SCH_0646,Chennai (OMR/Guduvanchery),1000,2210000,15300,Yes,No,3.9,500000,739,122,16.5,MEDIUM,61,25-38,First-time Buyers & Investors
+SCH_0647,Chennai (OMR/Guduvanchery),2400,3880000,26900,Yes,No,12.5,2000000,3311,441,13.3,MEDIUM,67,32-48,Self-use (Villa) + Investment
+SCH_0648,Pune (Wagholi/Kharadi),1500,6020000,41800,Yes,No,26.7,200000,248,31,12.5,LOW,37,32-48,Self-use (Villa) + Investment
+SCH_0649,Hyderabad (Tellapur/Kollur),800,2890000,20100,No,No,23.4,200000,205,24,11.7,LOW,33,25-38,First-time Buyers & Investors
+SCH_0650,Faridabad (Neharpar),1000,2330000,16200,No,No,27.9,350000,376,52,13.8,MEDIUM,50,25-38,First-time Buyers & Investors
+SCH_0651,Gurugram (SPR/Sohna),1800,9720000,67500,No,No,9.6,500000,606,77,12.7,LOW,45,40-60,Affluent Investors & Luxury Homes
+SCH_0652,Faridabad (Neharpar),800,2410000,16700,Yes,No,18.3,350000,368,50,13.6,LOW,41,25-38,First-time Buyers & Investors
+SCH_0653,Greater Noida,3000,11800000,81900,No,No,9.9,350000,552,95,17.2,MEDIUM,53,40-60,Affluent Investors & Luxury Homes
+SCH_0654,Ahmedabad (SG Highway),800,1880000,13100,Yes,No,19.7,1500000,1788,291,16.3,MEDIUM,72,25-38,First-time Buyers & Investors
+SCH_0655,Pune (Wagholi/Kharadi),3000,7300000,50700,Yes,No,10.3,2000000,3150,456,14.5,MEDIUM,73,32-48,Self-use (Villa) + Investment
+SCH_0656,Greater Noida,1200,4650000,32300,Yes,Yes,9.7,1000000,1992,318,16.0,HIGH,80,32-48,Self-use (Villa) + Investment
+SCH_0657,Pune (Wagholi/Kharadi),3000,13560000,94200,Yes,No,10.8,350000,495,85,17.2,MEDIUM,54,40-60,Affluent Investors & Luxury Homes
+SCH_0658,Greater Noida,1500,6060000,42100,No,Yes,15.8,500000,711,89,12.5,MEDIUM,53,32-48,Self-use (Villa) + Investment
+SCH_0659,Pune (Hinjewadi/Wakad),3000,13080000,90800,No,No,3.0,350000,623,100,16.1,MEDIUM,59,40-60,Affluent Investors & Luxury Homes
+SCH_0660,Pune (Hinjewadi/Wakad),1800,5680000,39400,No,No,24.9,1000000,1212,163,13.4,MEDIUM,59,32-48,Self-use (Villa) + Investment
+SCH_0661,Ahmedabad (SG Highway),1000,2210000,15300,No,No,19.5,2000000,2055,224,10.9,MEDIUM,59,25-38,First-time Buyers & Investors
+SCH_0662,Ahmedabad (SG Highway),1200,2660000,18500,Yes,Yes,2.4,350000,649,120,18.5,HIGH,77,25-38,First-time Buyers & Investors
+SCH_0663,Greater Noida,1000,2480000,17200,Yes,No,23.6,1500000,1652,223,13.5,MEDIUM,68,25-38,First-time Buyers & Investors
+SCH_0664,Ahmedabad (SG Highway),2400,6530000,45300,Yes,No,3.1,350000,685,140,20.4,MEDIUM,69,32-48,Self-use (Villa) + Investment
+SCH_0665,Gurugram (SPR/Sohna),1500,8770000,60900,No,No,22.5,200000,258,15,5.8,LOW,20,40-60,Affluent Investors & Luxury Homes
+SCH_0666,Pune (Hinjewadi/Wakad),1800,4150000,28800,No,Yes,26.9,200000,254,27,10.6,LOW,40,32-48,Self-use (Villa) + Investment
+SCH_0667,Bengaluru (East),1800,8050000,55900,Yes,No,26.6,1000000,1261,169,13.4,MEDIUM,63,40-60,Affluent Investors & Luxury Homes
+SCH_0668,Hyderabad (Tellapur/Kollur),2400,5940000,41200,No,No,20.0,750000,895,112,12.5,MEDIUM,53,32-48,Self-use (Villa) + Investment
+SCH_0669,Bengaluru (North),3000,11390000,79100,No,No,15.5,1000000,1134,117,10.3,LOW,48,40-60,Affluent Investors & Luxury Homes
+SCH_0670,Pune (Wagholi/Kharadi),1200,4360000,30300,No,No,12.3,1500000,1925,263,13.7,MEDIUM,64,32-48,Self-use (Villa) + Investment
+SCH_0671,Faridabad (Neharpar),1200,3310000,23000,Yes,No,10.8,750000,1137,178,15.7,MEDIUM,61,25-38,First-time Buyers & Investors
+SCH_0672,Hyderabad (Tellapur/Kollur),800,3270000,22700,No,No,15.1,500000,480,46,9.6,LOW,32,25-38,First-time Buyers & Investors
+SCH_0673,Bengaluru (East),1000,6020000,41800,No,No,14.9,1000000,1413,176,12.5,MEDIUM,63,32-48,Self-use (Villa) + Investment
+SCH_0674,Bengaluru (North),800,2660000,18500,Yes,Yes,7.4,2000000,3401,672,19.8,HIGH,89,25-38,First-time Buyers & Investors
+SCH_0675,Ahmedabad (SG Highway),1500,4020000,27900,Yes,No,22.4,350000,413,60,14.5,LOW,42,32-48,Self-use (Villa) + Investment
+SCH_0676,Faridabad (Neharpar),2400,6470000,44900,No,No,9.3,1500000,2437,308,12.6,MEDIUM,68,32-48,Self-use (Villa) + Investment
+SCH_0677,Hyderabad (Tellapur/Kollur),800,3380000,23500,No,No,12.4,2000000,2122,394,18.6,HIGH,77,25-38,First-time Buyers & Investors
+SCH_0678,Bengaluru (East),2400,12850000,89200,Yes,No,18.1,200000,201,22,10.9,LOW,30,40-60,Affluent Investors & Luxury Homes
+SCH_0679,Greater Noida,1200,4320000,30000,Yes,No,27.2,2000000,2358,211,8.9,MEDIUM,55,32-48,Self-use (Villa) + Investment
+SCH_0680,Kolkata (New Town/Rajarhat),800,1620000,11200,No,No,10.2,750000,1020,167,16.4,MEDIUM,72,25-38,First-time Buyers & Investors
+SCH_0681,Greater Noida,1800,5830000,40500,No,No,4.7,350000,548,90,16.4,MEDIUM,54,32-48,Self-use (Villa) + Investment
+SCH_0682,Bengaluru (East),1500,6760000,46900,Yes,No,22.0,500000,645,68,10.5,LOW,39,32-48,Self-use (Villa) + Investment
+SCH_0683,Ahmedabad (SG Highway),800,1450000,10100,No,No,9.8,1000000,1514,230,15.2,MEDIUM,71,25-38,First-time Buyers & Investors
+SCH_0684,Pune (Hinjewadi/Wakad),1000,4770000,33100,No,No,13.0,2000000,2234,161,7.2,MEDIUM,50,32-48,Self-use (Villa) + Investment
+SCH_0685,Delhi (Outer/Bawana),1200,2280000,15800,Yes,No,2.7,1000000,2214,319,14.4,MEDIUM,70,25-38,First-time Buyers & Investors
+SCH_0686,Pune (Hinjewadi/Wakad),800,2470000,17200,No,No,13.8,500000,576,78,13.5,LOW,49,25-38,First-time Buyers & Investors
+SCH_0687,Kolkata (New Town/Rajarhat),1000,1990000,13800,No,No,17.9,350000,457,65,14.2,MEDIUM,50,25-38,First-time Buyers & Investors
+SCH_0688,Delhi (Outer/Bawana),800,1850000,12800,No,No,8.0,200000,287,40,13.9,LOW,36,25-38,First-time Buyers & Investors
+SCH_0689,Faridabad (Neharpar),1800,3810000,26500,Yes,No,19.0,1500000,1576,171,10.9,MEDIUM,63,32-48,Self-use (Villa) + Investment
+SCH_0690,Gurugram (SPR/Sohna),800,3330000,23100,No,No,14.8,1500000,1439,205,14.2,MEDIUM,70,25-38,First-time Buyers & Investors
+SCH_0691,Pune (Wagholi/Kharadi),1500,6680000,46400,Yes,No,16.2,1500000,1474,254,17.2,MEDIUM,73,32-48,Self-use (Villa) + Investment
+SCH_0692,Bengaluru (East),1800,7570000,52600,Yes,No,10.7,500000,668,94,14.1,LOW,46,32-48,Self-use (Villa) + Investment
+SCH_0693,Kolkata (New Town/Rajarhat),1200,3770000,26200,No,No,23.0,200000,218,23,10.6,LOW,30,32-48,Self-use (Villa) + Investment
+SCH_0694,Pune (Hinjewadi/Wakad),1000,2590000,18000,No,No,3.6,750000,1213,163,13.4,MEDIUM,60,25-38,First-time Buyers & Investors
+SCH_0695,Delhi (Outer/Bawana),1800,5860000,40700,No,Yes,12.6,500000,813,149,18.3,HIGH,78,32-48,Self-use (Villa) + Investment
+SCH_0696,Pune (Wagholi/Kharadi),1500,5410000,37600,Yes,No,19.5,350000,404,49,12.1,LOW,36,32-48,Self-use (Villa) + Investment
+SCH_0697,Pune (Hinjewadi/Wakad),2400,9680000,67200,Yes,Yes,18.8,1000000,1546,291,18.8,HIGH,82,40-60,Affluent Investors & Luxury Homes
+SCH_0698,Pune (Wagholi/Kharadi),800,2920000,20300,No,No,23.7,350000,389,41,10.5,LOW,35,25-38,First-time Buyers & Investors
+SCH_0699,Pune (Wagholi/Kharadi),1500,7050000,49000,No,Yes,4.1,350000,516,90,17.4,MEDIUM,65,32-48,Self-use (Villa) + Investment
+SCH_0700,Ahmedabad (SG Highway),1800,3790000,26300,Yes,No,7.4,200000,283,52,18.4,MEDIUM,52,32-48,Self-use (Villa) + Investment
+SCH_0701,Faridabad (Neharpar),3000,7520000,52200,No,No,11.2,2000000,2580,357,13.8,MEDIUM,66,32-48,Self-use (Villa) + Investment
+SCH_0702,Chennai (OMR/Guduvanchery),1000,1910000,13300,No,No,1.6,500000,982,122,12.4,LOW,47,25-38,First-time Buyers & Investors
+SCH_0703,Bengaluru (East),2400,13000000,90300,Yes,No,24.4,750000,918,112,12.2,LOW,44,40-60,Affluent Investors & Luxury Homes
+SCH_0704,Chennai (OMR/Guduvanchery),1000,2410000,16700,No,No,23.3,1500000,1399,136,9.7,LOW,49,25-38,First-time Buyers & Investors
+SCH_0705,Ahmedabad (SG Highway),2400,6450000,44800,Yes,No,13.4,200000,380,69,18.2,MEDIUM,53,32-48,Self-use (Villa) + Investment
+SCH_0706,Bengaluru (East),1800,8950000,62100,No,No,15.0,1500000,2095,180,8.6,MEDIUM,52,40-60,Affluent Investors & Luxury Homes
+SCH_0707,Bengaluru (East),1200,5580000,38700,No,No,8.9,350000,472,54,11.4,LOW,37,32-48,Self-use (Villa) + Investment
+SCH_0708,Ahmedabad (SG Highway),800,2330000,16200,No,No,18.5,200000,228,23,10.1,LOW,28,25-38,First-time Buyers & Investors
+SCH_0709,Gurugram (SPR/Sohna),1000,5770000,40100,No,No,4.8,750000,1098,176,16.0,MEDIUM,65,32-48,Self-use (Villa) + Investment
+SCH_0710,Greater Noida,1000,3380000,23500,No,No,24.9,200000,225,24,10.7,LOW,31,25-38,First-time Buyers & Investors
+SCH_0711,Faridabad (Neharpar),2400,7980000,55400,No,No,4.5,200000,373,65,17.4,MEDIUM,54,32-48,Self-use (Villa) + Investment
+SCH_0712,Delhi (Outer/Bawana),1200,2110000,14700,Yes,No,11.4,2000000,2517,364,14.5,MEDIUM,70,25-38,First-time Buyers & Investors
+SCH_0713,Pune (Wagholi/Kharadi),1800,8040000,55800,No,Yes,6.0,1500000,2068,346,16.7,HIGH,83,40-60,Affluent Investors & Luxury Homes
+SCH_0714,Pune (Hinjewadi/Wakad),1200,4920000,34200,No,Yes,4.4,350000,773,148,19.1,MEDIUM,74,32-48,Self-use (Villa) + Investment
+SCH_0715,Greater Noida,1800,7540000,52400,No,No,15.8,200000,219,24,11.0,LOW,32,32-48,Self-use (Villa) + Investment
+SCH_0716,Chennai (OMR/Guduvanchery),1000,2010000,14000,No,No,3.3,1000000,1241,250,20.1,HIGH,78,25-38,First-time Buyers & Investors
+SCH_0717,Kolkata (New Town/Rajarhat),1200,3330000,23100,Yes,Yes,2.7,500000,870,196,22.5,HIGH,92,25-38,First-time Buyers & Investors
+SCH_0718,Greater Noida,2400,8890000,61700,No,No,2.5,750000,1605,224,14.0,MEDIUM,71,40-60,Affluent Investors & Luxury Homes
+SCH_0719,Bengaluru (North),2400,9930000,69000,Yes,No,21.3,500000,703,79,11.2,LOW,46,40-60,Affluent Investors & Luxury Homes
+SCH_0720,Gurugram (SPR/Sohna),3000,12560000,87200,No,No,21.5,2000000,2032,238,11.7,MEDIUM,64,40-60,Affluent Investors & Luxury Homes
+SCH_0721,Pune (Hinjewadi/Wakad),1500,3820000,26500,No,No,15.3,1500000,1502,195,13.0,MEDIUM,68,32-48,Self-use (Villa) + Investment
+SCH_0722,Greater Noida,800,2950000,20500,No,Yes,14.2,1500000,2113,417,19.7,HIGH,85,25-38,First-time Buyers & Investors
+SCH_0723,Faridabad (Neharpar),1200,2890000,20100,No,No,26.0,1000000,1061,146,13.8,MEDIUM,55,25-38,First-time Buyers & Investors
+SCH_0724,Kolkata (New Town/Rajarhat),2400,6720000,46700,Yes,No,7.4,500000,995,131,13.2,MEDIUM,54,32-48,Self-use (Villa) + Investment
+SCH_0725,Greater Noida,800,1810000,12600,Yes,No,6.8,1000000,2058,369,17.9,HIGH,80,25-38,First-time Buyers & Investors
+SCH_0726,Hyderabad (Tellapur/Kollur),800,2450000,17000,Yes,No,6.6,500000,800,116,14.5,MEDIUM,54,25-38,First-time Buyers & Investors
+SCH_0727,Gurugram (SPR/Sohna),1200,5030000,34900,Yes,No,10.3,1500000,2301,321,14.0,MEDIUM,71,32-48,Self-use (Villa) + Investment
+SCH_0728,Greater Noida,3000,7970000,55300,No,No,14.0,750000,1087,118,10.9,LOW,46,32-48,Self-use (Villa) + Investment
+SCH_0729,Delhi (Outer/Bawana),1000,2510000,17400,No,No,26.1,200000,229,26,11.4,LOW,31,25-38,First-time Buyers & Investors
+SCH_0730,Pune (Hinjewadi/Wakad),1800,7350000,51000,Yes,No,22.6,2000000,2099,248,11.8,MEDIUM,64,32-48,Self-use (Villa) + Investment
+SCH_0731,Bengaluru (North),1200,7170000,49800,No,No,23.8,1000000,1064,95,8.9,LOW,38,32-48,Self-use (Villa) + Investment
+SCH_0732,Bengaluru (North),1800,6450000,44800,No,No,20.2,500000,476,51,10.7,LOW,34,32-48,Self-use (Villa) + Investment
+SCH_0733,Chennai (OMR/Guduvanchery),1000,2310000,16000,No,No,15.3,350000,324,48,14.8,LOW,45,25-38,First-time Buyers & Investors
+SCH_0734,Greater Noida,3000,8180000,56800,Yes,No,25.5,350000,325,47,14.5,LOW,42,40-60,Affluent Investors & Luxury Homes
+SCH_0735,Chennai (OMR/Guduvanchery),2400,7820000,54300,No,Yes,23.2,1000000,1280,184,14.4,HIGH,76,32-48,Self-use (Villa) + Investment
+SCH_0736,Bengaluru (North),1000,5590000,38800,Yes,Yes,19.6,1000000,1496,143,9.6,MEDIUM,56,32-48,Self-use (Villa) + Investment
+SCH_0737,Pune (Wagholi/Kharadi),1500,6770000,47000,No,No,18.3,350000,292,33,11.3,LOW,39,32-48,Self-use (Villa) + Investment
+SCH_0738,Bengaluru (East),1200,4940000,34300,No,No,8.5,350000,528,82,15.5,MEDIUM,52,32-48,Self-use (Villa) + Investment
+SCH_0739,Greater Noida,1800,6580000,45700,No,No,5.0,1500000,2631,332,12.6,MEDIUM,63,32-48,Self-use (Villa) + Investment
+SCH_0740,Ahmedabad (SG Highway),1000,1930000,13400,No,No,2.6,200000,309,51,16.5,LOW,46,25-38,First-time Buyers & Investors
+SCH_0741,Delhi (Outer/Bawana),800,1440000,10000,No,No,20.1,1000000,987,127,12.9,MEDIUM,50,25-38,First-time Buyers & Investors
+SCH_0742,Faridabad (Neharpar),2400,5870000,40800,No,No,20.3,1500000,1715,277,16.2,MEDIUM,70,32-48,Self-use (Villa) + Investment
+SCH_0743,Gurugram (SPR/Sohna),3000,17170000,119200,Yes,No,25.8,750000,595,61,10.3,LOW,40,40-60,Affluent Investors & Luxury Homes
+SCH_0744,Pune (Hinjewadi/Wakad),2400,9300000,64600,No,Yes,5.1,1000000,1677,225,13.4,HIGH,78,40-60,Affluent Investors & Luxury Homes
+SCH_0745,Pune (Wagholi/Kharadi),1500,4020000,27900,No,No,13.3,200000,182,24,13.2,LOW,45,32-48,Self-use (Villa) + Investment
+SCH_0746,Gurugram (SPR/Sohna),1200,5740000,39900,No,No,17.4,350000,324,37,11.4,LOW,36,32-48,Self-use (Villa) + Investment
+SCH_0747,Hyderabad (Tellapur/Kollur),3000,12170000,84500,Yes,No,15.5,750000,1044,138,13.2,MEDIUM,57,40-60,Affluent Investors & Luxury Homes
+SCH_0748,Bengaluru (East),1800,7210000,50100,No,No,6.8,1500000,2337,342,14.6,MEDIUM,68,32-48,Self-use (Villa) + Investment
+SCH_0749,Hyderabad (Tellapur/Kollur),1800,7640000,53100,Yes,Yes,21.0,1500000,1985,289,14.6,HIGH,80,32-48,Self-use (Villa) + Investment
+SCH_0750,Chennai (OMR/Guduvanchery),800,2180000,15100,Yes,No,5.9,750000,1039,195,18.8,HIGH,77,25-38,First-time Buyers & Investors
+SCH_0751,Gurugram (SPR/Sohna),2400,14130000,98100,No,No,18.5,200000,105,12,11.4,LOW,29,40-60,Affluent Investors & Luxury Homes
+SCH_0752,Bengaluru (North),1800,11130000,77300,Yes,No,18.9,750000,839,79,9.4,LOW,42,40-60,Affluent Investors & Luxury Homes
+SCH_0753,Hyderabad (Tellapur/Kollur),1800,6660000,46200,No,No,25.8,750000,748,140,18.7,MEDIUM,70,32-48,Self-use (Villa) + Investment
+SCH_0754,Pune (Wagholi/Kharadi),800,2970000,20600,No,No,24.0,200000,194,21,10.8,LOW,31,25-38,First-time Buyers & Investors
+SCH_0755,Kolkata (New Town/Rajarhat),800,1280000,8900,No,No,8.8,200000,268,41,15.3,LOW,45,25-38,First-time Buyers & Investors
+SCH_0756,Faridabad (Neharpar),1800,4230000,29400,No,No,15.8,1500000,1455,152,10.4,MEDIUM,52,32-48,Self-use (Villa) + Investment
+SCH_0757,Bengaluru (North),1000,5030000,34900,No,No,5.3,2000000,3367,499,14.8,MEDIUM,71,32-48,Self-use (Villa) + Investment
+SCH_0758,Bengaluru (North),800,2750000,19100,No,No,27.3,350000,180,22,12.2,LOW,35,25-38,First-time Buyers & Investors
+SCH_0759,Delhi (Outer/Bawana),3000,7170000,49800,No,No,13.4,750000,948,123,13.0,MEDIUM,56,32-48,Self-use (Villa) + Investment
+SCH_0760,Chennai (OMR/Guduvanchery),1500,3410000,23700,Yes,No,23.9,350000,461,51,11.1,LOW,37,25-38,First-time Buyers & Investors
+SCH_0761,Pune (Hinjewadi/Wakad),1500,6910000,48000,Yes,No,16.4,1500000,1724,164,9.5,MEDIUM,51,32-48,Self-use (Villa) + Investment
+SCH_0762,Ahmedabad (SG Highway),1500,5140000,35700,No,Yes,15.2,1000000,1115,177,15.9,HIGH,79,32-48,Self-use (Villa) + Investment
+SCH_0763,Chennai (OMR/Guduvanchery),2400,7220000,50100,No,No,17.6,500000,565,69,12.2,LOW,40,32-48,Self-use (Villa) + Investment
+SCH_0764,Greater Noida,1500,5070000,35200,No,No,10.1,500000,843,134,15.9,MEDIUM,63,32-48,Self-use (Villa) + Investment
+SCH_0765,Pune (Hinjewadi/Wakad),1200,3160000,21900,No,No,16.3,200000,277,35,12.6,LOW,38,25-38,First-time Buyers & Investors
+SCH_0766,Ahmedabad (SG Highway),1000,2690000,18700,No,No,17.9,500000,559,61,10.9,LOW,35,25-38,First-time Buyers & Investors
+SCH_0767,Bengaluru (North),1800,6220000,43200,No,No,8.6,500000,551,66,12.0,LOW,39,32-48,Self-use (Villa) + Investment
+SCH_0768,Gurugram (SPR/Sohna),1800,6800000,47200,Yes,No,11.1,350000,459,64,13.9,LOW,43,32-48,Self-use (Villa) + Investment
+SCH_0769,Faridabad (Neharpar),1000,2520000,17500,No,No,10.4,200000,263,38,14.4,LOW,41,25-38,First-time Buyers & Investors
+SCH_0770,Ahmedabad (SG Highway),3000,5680000,39400,No,No,7.6,750000,1189,186,15.6,MEDIUM,72,32-48,Self-use (Villa) + Investment
+SCH_0771,Bengaluru (North),1000,5110000,35500,No,No,21.4,200000,102,7,6.9,LOW,20,32-48,Self-use (Villa) + Investment
+SCH_0772,Chennai (OMR/Guduvanchery),1500,3760000,26100,Yes,No,13.9,350000,451,81,18.0,MEDIUM,55,32-48,Self-use (Villa) + Investment
+SCH_0773,Hyderabad (Tellapur/Kollur),800,2360000,16400,No,No,9.7,1000000,1492,134,9.0,LOW,48,25-38,First-time Buyers & Investors
+SCH_0774,Greater Noida,800,3670000,25500,No,No,18.7,500000,428,47,11.0,LOW,36,32-48,Self-use (Villa) + Investment
+SCH_0775,Pune (Hinjewadi/Wakad),3000,7370000,51200,No,Yes,20.9,1000000,1335,136,10.2,MEDIUM,50,32-48,Self-use (Villa) + Investment
+SCH_0776,Kolkata (New Town/Rajarhat),1200,3470000,24100,No,Yes,19.2,2000000,1851,333,18.0,HIGH,90,25-38,First-time Buyers & Investors
+SCH_0777,Hyderabad (Tellapur/Kollur),800,2850000,19800,No,No,8.0,200000,234,29,12.4,LOW,38,25-38,First-time Buyers & Investors
+SCH_0778,Gurugram (SPR/Sohna),800,5040000,35000,Yes,No,18.3,1500000,2070,252,12.2,MEDIUM,66,32-48,Self-use (Villa) + Investment
+SCH_0779,Gurugram (SPR/Sohna),3000,15590000,108300,Yes,No,19.8,500000,543,97,17.9,MEDIUM,59,40-60,Affluent Investors & Luxury Homes
+SCH_0780,Delhi (Outer/Bawana),800,2250000,15600,No,No,12.6,1500000,2119,295,13.9,MEDIUM,63,25-38,First-time Buyers & Investors
+SCH_0781,Pune (Wagholi/Kharadi),1200,3150000,21900,Yes,No,27.9,500000,650,77,11.8,LOW,41,25-38,First-time Buyers & Investors
+SCH_0782,Pune (Hinjewadi/Wakad),1000,3350000,23300,Yes,No,6.0,750000,1065,148,13.9,MEDIUM,62,25-38,First-time Buyers & Investors
+SCH_0783,Kolkata (New Town/Rajarhat),3000,7260000,50400,Yes,No,20.4,200000,176,22,12.5,LOW,34,32-48,Self-use (Villa) + Investment
+SCH_0784,Gurugram (SPR/Sohna),1800,10080000,70000,No,No,5.2,1500000,1823,256,14.0,MEDIUM,66,40-60,Affluent Investors & Luxury Homes
+SCH_0785,Greater Noida,2400,7720000,53600,No,No,16.6,1000000,1187,121,10.2,LOW,43,32-48,Self-use (Villa) + Investment
+SCH_0786,Chennai (OMR/Guduvanchery),1500,3640000,25300,No,No,22.2,1000000,844,82,9.7,LOW,42,32-48,Self-use (Villa) + Investment
+SCH_0787,Hyderabad (Tellapur/Kollur),2400,10380000,72100,No,No,11.9,1500000,2395,346,14.4,MEDIUM,72,40-60,Affluent Investors & Luxury Homes
+SCH_0788,Delhi (Outer/Bawana),800,1840000,12800,No,No,23.7,2000000,2233,267,12.0,MEDIUM,64,25-38,First-time Buyers & Investors
+SCH_0789,Delhi (Outer/Bawana),1000,1940000,13500,No,No,9.2,750000,1254,157,12.5,MEDIUM,50,25-38,First-time Buyers & Investors
+SCH_0790,Delhi (Outer/Bawana),2400,5480000,38100,No,No,5.0,350000,428,75,17.5,MEDIUM,56,32-48,Self-use (Villa) + Investment
+SCH_0791,Ahmedabad (SG Highway),1000,2530000,17600,No,No,27.1,200000,190,26,13.7,LOW,38,25-38,First-time Buyers & Investors
+SCH_0792,Greater Noida,1200,5100000,35400,Yes,No,26.4,2000000,2621,300,11.4,MEDIUM,62,32-48,Self-use (Villa) + Investment
+SCH_0793,Bengaluru (North),2400,12270000,85200,No,Yes,14.3,200000,293,51,17.4,MEDIUM,59,40-60,Affluent Investors & Luxury Homes
+SCH_0794,Ahmedabad (SG Highway),800,1650000,11500,Yes,No,2.5,500000,1063,201,18.9,HIGH,80,25-38,First-time Buyers & Investors
+SCH_0795,Gurugram (SPR/Sohna),1500,7830000,54400,No,Yes,4.3,1000000,2049,240,11.7,MEDIUM,72,32-48,Self-use (Villa) + Investment
+SCH_0796,Bengaluru (East),800,4680000,32500,No,Yes,9.8,2000000,2721,359,13.2,HIGH,76,32-48,Self-use (Villa) + Investment
+SCH_0797,Greater Noida,1800,4770000,33100,No,No,5.7,500000,778,137,17.6,MEDIUM,65,32-48,Self-use (Villa) + Investment
+SCH_0798,Chennai (OMR/Guduvanchery),1000,3360000,23300,Yes,No,18.1,750000,998,145,14.5,MEDIUM,56,25-38,First-time Buyers & Investors
+SCH_0799,Greater Noida,1500,3610000,25100,Yes,No,17.1,500000,620,79,12.7,LOW,46,32-48,Self-use (Villa) + Investment
+SCH_0800,Chennai (OMR/Guduvanchery),2400,4420000,30700,No,No,7.6,350000,504,50,9.9,LOW,36,32-48,Self-use (Villa) + Investment
+SCH_0801,Greater Noida,1800,4800000,33300,Yes,No,22.2,500000,550,59,10.7,LOW,34,32-48,Self-use (Villa) + Investment
+SCH_0802,Kolkata (New Town/Rajarhat),1000,1960000,13600,No,No,17.8,2000000,2403,192,8.0,MEDIUM,60,25-38,First-time Buyers & Investors
+SCH_0803,Kolkata (New Town/Rajarhat),1800,3630000,25200,No,No,8.6,350000,381,59,15.5,LOW,46,32-48,Self-use (Villa) + Investment
+SCH_0804,Bengaluru (North),2400,14360000,99700,No,Yes,19.2,200000,204,20,9.8,LOW,38,40-60,Affluent Investors & Luxury Homes
+SCH_0805,Pune (Wagholi/Kharadi),1200,3290000,22800,No,Yes,26.0,350000,339,37,10.9,LOW,46,25-38,First-time Buyers & Investors
+SCH_0806,Greater Noida,1500,5310000,36900,Yes,No,17.1,500000,568,70,12.3,LOW,39,32-48,Self-use (Villa) + Investment
+SCH_0807,Faridabad (Neharpar),2400,7940000,55100,Yes,Yes,7.6,750000,1549,279,18.0,HIGH,93,32-48,Self-use (Villa) + Investment
+SCH_0808,Hyderabad (Tellapur/Kollur),1000,2390000,16600,Yes,No,5.1,1000000,1753,279,15.9,MEDIUM,71,25-38,First-time Buyers & Investors
+SCH_0809,Hyderabad (Tellapur/Kollur),1200,3070000,21300,No,No,6.6,350000,416,63,15.1,LOW,43,25-38,First-time Buyers & Investors
+SCH_0810,Ahmedabad (SG Highway),800,1710000,11900,No,No,5.8,500000,712,112,15.7,MEDIUM,58,25-38,First-time Buyers & Investors
+SCH_0811,Pune (Hinjewadi/Wakad),1800,4690000,32600,No,No,25.5,1000000,1226,135,11.0,MEDIUM,53,32-48,Self-use (Villa) + Investment
+SCH_0812,Bengaluru (East),800,3650000,25300,Yes,No,23.6,500000,454,55,12.1,LOW,37,32-48,Self-use (Villa) + Investment
+SCH_0813,Hyderabad (Tellapur/Kollur),2400,10730000,74500,No,No,25.1,1000000,1203,178,14.8,MEDIUM,62,40-60,Affluent Investors & Luxury Homes
+SCH_0814,Ahmedabad (SG Highway),800,1920000,13300,No,No,14.7,750000,848,122,14.4,MEDIUM,55,25-38,First-time Buyers & Investors
+SCH_0815,Chennai (OMR/Guduvanchery),3000,9350000,64900,No,Yes,3.4,2000000,2944,592,20.1,HIGH,90,40-60,Affluent Investors & Luxury Homes
+SCH_0816,Faridabad (Neharpar),1500,5110000,35500,No,Yes,1.6,1500000,2748,425,15.5,HIGH,79,32-48,Self-use (Villa) + Investment
+SCH_0817,Faridabad (Neharpar),1500,4850000,33700,Yes,No,13.6,350000,560,66,11.8,LOW,40,32-48,Self-use (Villa) + Investment
+SCH_0818,Hyderabad (Tellapur/Kollur),1000,4250000,29500,No,No,1.2,1500000,2147,366,17.0,HIGH,75,32-48,Self-use (Villa) + Investment
+SCH_0819,Faridabad (Neharpar),1200,3130000,21700,No,No,17.6,1000000,1163,110,9.5,LOW,42,25-38,First-time Buyers & Investors
+SCH_0820,Delhi (Outer/Bawana),800,2220000,15400,Yes,No,25.6,500000,646,104,16.1,MEDIUM,57,25-38,First-time Buyers & Investors
+SCH_0821,Gurugram (SPR/Sohna),1500,6610000,45900,No,Yes,16.2,2000000,2194,309,14.1,HIGH,80,32-48,Self-use (Villa) + Investment
+SCH_0822,Pune (Wagholi/Kharadi),1000,3600000,25000,Yes,No,21.6,500000,560,94,16.8,MEDIUM,52,32-48,Self-use (Villa) + Investment
+SCH_0823,Pune (Hinjewadi/Wakad),1800,7140000,49600,Yes,No,14.2,1000000,1522,195,12.8,MEDIUM,64,32-48,Self-use (Villa) + Investment
+SCH_0824,Chennai (OMR/Guduvanchery),2400,6270000,43500,No,No,13.3,500000,720,118,16.4,MEDIUM,58,32-48,Self-use (Villa) + Investment
+SCH_0825,Faridabad (Neharpar),3000,10380000,72100,No,No,3.5,750000,1441,250,17.3,MEDIUM,72,40-60,Affluent Investors & Luxury Homes
+SCH_0826,Pune (Hinjewadi/Wakad),800,1990000,13800,Yes,No,24.6,1000000,1420,127,8.9,LOW,46,25-38,First-time Buyers & Investors
+SCH_0827,Greater Noida,1200,3940000,27400,Yes,No,13.1,1500000,1708,273,16.0,MEDIUM,71,32-48,Self-use (Villa) + Investment
+SCH_0828,Bengaluru (East),800,2620000,18200,No,No,15.1,500000,547,57,10.4,LOW,40,25-38,First-time Buyers & Investors
+SCH_0829,Pune (Wagholi/Kharadi),2400,9310000,64600,No,Yes,25.3,500000,410,71,17.3,MEDIUM,58,40-60,Affluent Investors & Luxury Homes
+SCH_0830,Pune (Hinjewadi/Wakad),1000,3460000,24000,No,No,2.5,500000,748,119,15.9,MEDIUM,59,25-38,First-time Buyers & Investors
+SCH_0831,Bengaluru (North),1800,11250000,78100,No,Yes,23.7,1500000,1983,250,12.6,HIGH,81,40-60,Affluent Investors & Luxury Homes
+SCH_0832,Bengaluru (North),1000,3990000,27700,No,No,13.0,500000,488,70,14.3,LOW,44,32-48,Self-use (Villa) + Investment
+SCH_0833,Kolkata (New Town/Rajarhat),2400,4000000,27800,No,No,15.7,350000,419,46,11.0,LOW,33,32-48,Self-use (Villa) + Investment
+SCH_0834,Gurugram (SPR/Sohna),800,3630000,25200,Yes,No,26.1,350000,319,55,17.2,LOW,49,32-48,Self-use (Villa) + Investment
+SCH_0835,Faridabad (Neharpar),1800,6220000,43200,No,No,27.2,2000000,2457,190,7.7,MEDIUM,51,32-48,Self-use (Villa) + Investment
+SCH_0836,Ahmedabad (SG Highway),2400,4510000,31300,No,Yes,20.8,200000,207,35,16.9,MEDIUM,57,32-48,Self-use (Villa) + Investment
+SCH_0837,Kolkata (New Town/Rajarhat),800,1750000,12200,Yes,No,3.7,200000,373,70,18.8,MEDIUM,51,25-38,First-time Buyers & Investors
+SCH_0838,Bengaluru (East),1800,8890000,61700,No,No,6.4,200000,330,53,16.1,LOW,45,40-60,Affluent Investors & Luxury Homes
+SCH_0839,Chennai (OMR/Guduvanchery),2400,6900000,47900,No,No,17.4,1000000,1273,148,11.6,MEDIUM,53,32-48,Self-use (Villa) + Investment
+SCH_0840,Delhi (Outer/Bawana),1200,2830000,19700,No,No,1.5,500000,799,177,22.2,HIGH,80,25-38,First-time Buyers & Investors
+SCH_0841,Chennai (OMR/Guduvanchery),3000,8000000,55600,No,No,12.3,750000,855,105,12.3,MEDIUM,50,40-60,Affluent Investors & Luxury Homes
+SCH_0842,Faridabad (Neharpar),1500,4480000,31100,Yes,No,13.9,2000000,2747,394,14.3,MEDIUM,73,32-48,Self-use (Villa) + Investment
+SCH_0843,Pune (Wagholi/Kharadi),800,3700000,25700,No,No,18.3,500000,546,51,9.3,LOW,27,32-48,Self-use (Villa) + Investment
+SCH_0844,Kolkata (New Town/Rajarhat),1500,4420000,30700,No,Yes,23.5,500000,622,73,11.7,MEDIUM,54,32-48,Self-use (Villa) + Investment
+SCH_0845,Greater Noida,3000,13040000,90500,No,No,7.2,2000000,2232,362,16.2,MEDIUM,69,40-60,Affluent Investors & Luxury Homes
+SCH_0846,Pune (Hinjewadi/Wakad),1200,5620000,39000,No,No,12.4,750000,1159,162,14.0,MEDIUM,59,32-48,Self-use (Villa) + Investment
+SCH_0847,Delhi (Outer/Bawana),1000,1650000,11500,No,No,27.2,1000000,1095,139,12.7,MEDIUM,55,25-38,First-time Buyers & Investors
+SCH_0848,Ahmedabad (SG Highway),1500,4010000,27800,No,No,14.0,1500000,2100,397,18.9,MEDIUM,73,32-48,Self-use (Villa) + Investment
+SCH_0849,Pune (Wagholi/Kharadi),1800,7390000,51300,No,Yes,5.1,750000,1647,276,16.8,HIGH,81,32-48,Self-use (Villa) + Investment
+SCH_0850,Bengaluru (North),1200,4490000,31200,No,No,26.8,200000,134,14,10.4,LOW,31,32-48,Self-use (Villa) + Investment
+SCH_0851,Kolkata (New Town/Rajarhat),2400,8110000,56300,Yes,No,17.2,350000,428,71,16.6,LOW,47,40-60,Affluent Investors & Luxury Homes
+SCH_0852,Pune (Wagholi/Kharadi),3000,13190000,91600,No,No,3.8,1000000,1516,210,13.9,MEDIUM,69,40-60,Affluent Investors & Luxury Homes
+SCH_0853,Bengaluru (North),800,2920000,20300,No,Yes,3.9,350000,685,126,18.4,MEDIUM,66,25-38,First-time Buyers & Investors
+SCH_0854,Bengaluru (East),3000,18480000,128300,Yes,Yes,4.3,350000,857,176,20.5,HIGH,88,40-60,Affluent Investors & Luxury Homes
+SCH_0855,Chennai (OMR/Guduvanchery),1200,2630000,18300,No,No,17.2,2000000,2668,222,8.3,MEDIUM,59,25-38,First-time Buyers & Investors
+SCH_0856,Bengaluru (North),2400,10090000,70100,Yes,Yes,19.6,500000,566,62,11.0,LOW,49,40-60,Affluent Investors & Luxury Homes
+SCH_0857,Bengaluru (North),800,3680000,25600,No,Yes,22.0,2000000,2205,293,13.3,HIGH,78,32-48,Self-use (Villa) + Investment
+SCH_0858,Bengaluru (East),800,2650000,18400,Yes,No,2.4,500000,997,172,17.3,MEDIUM,70,25-38,First-time Buyers & Investors
+SCH_0859,Gurugram (SPR/Sohna),3000,10830000,75200,Yes,No,2.0,350000,733,119,16.2,MEDIUM,60,40-60,Affluent Investors & Luxury Homes
+SCH_0860,Pune (Hinjewadi/Wakad),1800,5590000,38800,Yes,Yes,3.9,1000000,2267,525,23.2,HIGH,98,32-48,Self-use (Villa) + Investment
+SCH_0861,Kolkata (New Town/Rajarhat),1000,2960000,20600,No,Yes,27.3,200000,213,25,11.7,LOW,47,25-38,First-time Buyers & Investors
+SCH_0862,Kolkata (New Town/Rajarhat),3000,8830000,61300,Yes,Yes,6.0,500000,1156,200,17.3,HIGH,86,40-60,Affluent Investors & Luxury Homes
+SCH_0863,Hyderabad (Tellapur/Kollur),1000,3540000,24600,No,Yes,15.1,750000,1153,148,12.8,MEDIUM,65,32-48,Self-use (Villa) + Investment
+SCH_0864,Faridabad (Neharpar),1200,3190000,22200,No,No,8.8,1000000,1625,298,18.3,HIGH,80,25-38,First-time Buyers & Investors
+SCH_0865,Delhi (Outer/Bawana),3000,7330000,50900,No,No,12.7,2000000,2033,243,12.0,MEDIUM,61,32-48,Self-use (Villa) + Investment
+SCH_0866,Chennai (OMR/Guduvanchery),2400,5520000,38300,No,No,11.8,1000000,1412,212,15.0,MEDIUM,74,32-48,Self-use (Villa) + Investment
+SCH_0867,Gurugram (SPR/Sohna),800,2940000,20400,Yes,No,25.1,350000,335,30,9.0,LOW,32,25-38,First-time Buyers & Investors
+SCH_0868,Bengaluru (East),1200,4630000,32200,No,Yes,23.7,1500000,1685,211,12.5,HIGH,76,32-48,Self-use (Villa) + Investment
+SCH_0869,Faridabad (Neharpar),3000,8120000,56400,No,No,27.7,1000000,965,181,18.8,HIGH,76,40-60,Affluent Investors & Luxury Homes
+SCH_0870,Chennai (OMR/Guduvanchery),800,1470000,10200,Yes,No,4.8,200000,387,78,20.2,MEDIUM,62,25-38,First-time Buyers & Investors
+SCH_0871,Gurugram (SPR/Sohna),1500,8160000,56700,No,No,5.3,1000000,1642,270,16.4,MEDIUM,74,40-60,Affluent Investors & Luxury Homes
+SCH_0872,Gurugram (SPR/Sohna),2400,13630000,94600,No,No,6.6,1500000,2283,311,13.6,MEDIUM,69,40-60,Affluent Investors & Luxury Homes
+SCH_0873,Kolkata (New Town/Rajarhat),1200,3160000,21900,No,Yes,26.7,200000,309,36,11.7,LOW,44,25-38,First-time Buyers & Investors
+SCH_0874,Gurugram (SPR/Sohna),1500,7030000,48800,No,Yes,2.1,1000000,2053,422,20.6,HIGH,94,32-48,Self-use (Villa) + Investment
+SCH_0875,Pune (Hinjewadi/Wakad),2400,6300000,43700,No,No,14.3,200000,263,47,17.9,MEDIUM,50,32-48,Self-use (Villa) + Investment
+SCH_0876,Chennai (OMR/Guduvanchery),2400,6370000,44200,No,Yes,14.8,750000,929,127,13.7,MEDIUM,64,32-48,Self-use (Villa) + Investment
+SCH_0877,Ahmedabad (SG Highway),1500,4160000,28900,No,Yes,17.0,350000,529,82,15.5,MEDIUM,60,32-48,Self-use (Villa) + Investment
+SCH_0878,Pune (Wagholi/Kharadi),3000,12390000,86000,No,No,10.4,500000,649,66,10.2,LOW,36,40-60,Affluent Investors & Luxury Homes
+SCH_0879,Greater Noida,2400,6800000,47200,No,No,25.6,200000,264,32,12.1,LOW,37,32-48,Self-use (Villa) + Investment
+SCH_0880,Gurugram (SPR/Sohna),1200,4510000,31300,Yes,No,16.4,750000,836,108,12.9,LOW,48,32-48,Self-use (Villa) + Investment
+SCH_0881,Faridabad (Neharpar),1500,4080000,28300,No,No,9.8,200000,339,51,15.0,LOW,46,32-48,Self-use (Villa) + Investment
+SCH_0882,Gurugram (SPR/Sohna),2400,13030000,90500,No,No,10.9,750000,848,56,6.6,LOW,31,40-60,Affluent Investors & Luxury Homes
+SCH_0883,Delhi (Outer/Bawana),3000,10350000,71900,Yes,Yes,9.2,1000000,1690,276,16.3,HIGH,85,40-60,Affluent Investors & Luxury Homes
+SCH_0884,Bengaluru (East),1800,10170000,70600,Yes,No,8.5,1000000,1815,302,16.6,HIGH,75,40-60,Affluent Investors & Luxury Homes
+SCH_0885,Chennai (OMR/Guduvanchery),1500,3000000,20800,No,No,9.3,2000000,2572,272,10.6,MEDIUM,65,25-38,First-time Buyers & Investors
+SCH_0886,Delhi (Outer/Bawana),1800,3950000,27400,No,No,13.3,2000000,2542,332,13.1,MEDIUM,67,32-48,Self-use (Villa) + Investment
+SCH_0887,Greater Noida,2400,9670000,67100,No,No,6.9,2000000,3270,491,15.0,MEDIUM,67,40-60,Affluent Investors & Luxury Homes
+SCH_0888,Chennai (OMR/Guduvanchery),1200,4060000,28200,No,No,20.7,200000,154,11,7.1,LOW,25,32-48,Self-use (Villa) + Investment
+SCH_0889,Pune (Wagholi/Kharadi),1500,3880000,26900,No,No,12.2,2000000,2934,523,17.8,MEDIUM,74,32-48,Self-use (Villa) + Investment
+SCH_0890,Gurugram (SPR/Sohna),2400,9290000,64500,No,No,8.1,1000000,1217,136,11.2,MEDIUM,55,40-60,Affluent Investors & Luxury Homes
+SCH_0891,Bengaluru (East),800,2960000,20600,No,No,12.5,200000,214,27,12.6,LOW,35,25-38,First-time Buyers & Investors
+SCH_0892,Pune (Hinjewadi/Wakad),1000,2280000,15800,No,No,16.0,1500000,1984,273,13.8,MEDIUM,72,25-38,First-time Buyers & Investors
+SCH_0893,Faridabad (Neharpar),1500,4630000,32200,Yes,No,24.4,750000,977,94,9.6,LOW,40,32-48,Self-use (Villa) + Investment
+SCH_0894,Delhi (Outer/Bawana),2400,7880000,54700,Yes,Yes,15.2,2000000,3069,401,13.1,MEDIUM,73,32-48,Self-use (Villa) + Investment
+SCH_0895,Kolkata (New Town/Rajarhat),1200,3050000,21200,Yes,No,9.6,2000000,3246,515,15.9,MEDIUM,72,25-38,First-time Buyers & Investors
+SCH_0896,Hyderabad (Tellapur/Kollur),3000,12440000,86400,No,Yes,5.9,500000,835,132,15.8,MEDIUM,67,40-60,Affluent Investors & Luxury Homes
+SCH_0897,Pune (Hinjewadi/Wakad),3000,11200000,77800,No,No,4.2,1000000,1585,310,19.6,MEDIUM,74,40-60,Affluent Investors & Luxury Homes
+SCH_0898,Delhi (Outer/Bawana),1000,3430000,23800,No,No,10.9,1500000,1853,190,10.3,MEDIUM,57,25-38,First-time Buyers & Investors
+SCH_0899,Pune (Hinjewadi/Wakad),800,3100000,21500,No,Yes,19.7,2000000,2471,244,9.9,MEDIUM,67,25-38,First-time Buyers & Investors
+SCH_0900,Pune (Hinjewadi/Wakad),1800,5760000,40000,No,No,19.6,1000000,1129,130,11.5,MEDIUM,51,32-48,Self-use (Villa) + Investment
