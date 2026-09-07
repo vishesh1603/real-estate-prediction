@@ -29,10 +29,10 @@ real-estate-project/
 │   ├── 02_purchase_intent_model.ipynb    classification models
 │   ├── 03_listings_cleaning.ipynb        cleans the listings data
 │   ├── 04_price_prediction_model.ipynb   regression models
-│   └── 05_scheme_success_model.ipynb     scheme success score - PCA, GridSearchCV, ensembles
+│   |── 05_scheme_success_model.ipynb     scheme success score - PCA, GridSearchCV, ensembles
 ├── models/                               saved after running the notebooks
 ├── app/
-│   └── app.py                            streamlit demo for both models
+│   └── app.py                            streamlit demo for all models
 ├── requirements.txt
 └── README.md
 ```
