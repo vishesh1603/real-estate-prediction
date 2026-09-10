@@ -1,0 +1,19 @@
+{
+  "total_records": 12000,
+  "overall_conversion_pct": 41.54,
+  "site_visit_conversion_pct": 69.25,
+  "no_site_visit_conversion_pct": 17.57,
+  "median_income_monthly": 108000,
+  "median_plot_budget": 4835000,
+  "purpose_split": {
+    "Self-use": 0.59,
+    "Investment": 0.41
+  },
+  "age_group_conversions": {
+    "18-25": 33.14,
+    "26-35": 42.02,
+    "36-45": 42.37,
+    "46-55": 44.24,
+    "56+": 40.79
+  }
+}
