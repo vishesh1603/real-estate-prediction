@@ -1,5 +1,6 @@
 # --- Model artifacts & large binaries ---
-models/
+models/*
+!models/.gitkeep
 *.pkl
 *.pickle
 *.joblib
