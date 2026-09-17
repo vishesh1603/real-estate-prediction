@@ -83,10 +83,6 @@ in purchase intent overlaps with its neighbors rather than being underrepresente
 ## How to Run
 
 ```
-python -m venv venv
-venv\Scripts\Activate.ps1      # Windows
-# source venv/bin/activate     # macOS/Linux
-
 pip install -r requirements.txt
 ```
 
